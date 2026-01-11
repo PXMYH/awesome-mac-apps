@@ -156,7 +156,7 @@ class MacAppsSearch {
   private createAppCard(app: App): string {
     const pricingBadge = app.pricing === 'free'
       ? '<span class="px-2 py-0.5 text-xs font-medium bg-green-100 text-green-800 rounded">FREE</span>'
-      : '<span class="px-2 py-0.5 text-xs font-medium bg-gray-100 text-gray-600 rounded border border-gray-300">PAID</span>';
+      : '<span class="px-2 py-0.5 text-xs font-medium bg-red-100 text-red-800 rounded">PAID</span>';
 
     const ossBadge = app.isOpenSource
       ? `<a href="${this.escapeHtml(app.repoUrl || app.url)}" target="_blank" rel="noopener" class="px-2 py-0.5 text-xs font-medium bg-blue-100 text-blue-800 rounded hover:bg-blue-200">OSS</a>`
