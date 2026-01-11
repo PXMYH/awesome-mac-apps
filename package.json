@@ -1,0 +1,13 @@
+{
+  "name": "awesome-mac-apps",
+  "version": "1.0.0",
+  "description": "Searchable, filterable Mac apps directory",
+  "type": "commonjs",
+  "scripts": {
+    "fetch-data": "node scripts/parse-readme.js",
+    "build": "npm run fetch-data",
+    "dev": "npx serve ."
+  },
+  "keywords": ["mac", "apps", "awesome-list", "search"],
+  "license": "MIT"
+}
