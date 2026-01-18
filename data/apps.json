@@ -11196,6 +11196,19 @@
     },
     {
       "id": 976,
+      "name": "ExtendFS",
+      "url": "https://apps.kpchew.com/extendfs/",
+      "description": "Read-only access to Linux ext2/3/4 in macOS Sequoia and later without a kernel extension",
+      "category": "Utilities",
+      "subcategory": "System Related Tools",
+      "pricing": "free",
+      "isOpenSource": true,
+      "isAppStore": true,
+      "repoUrl": "https://github.com/kthchew/ExtendFS",
+      "appStoreUrl": "https://apps.apple.com/us/app/mount-ext4-drives-extendfs/id6755664332"
+    },
+    {
+      "id": 977,
       "name": "gfxCardStatus",
       "url": "https://gfx.io/",
       "description": "Monitor graphics card usage and battery impact",
@@ -11206,7 +11219,7 @@
       "isAppStore": false
     },
     {
-      "id": 977,
+      "id": 978,
       "name": "GrandPerspective",
       "url": "https://grandperspectiv.sourceforge.net",
       "description": "Visualize disk usage with tree maps",
@@ -11219,7 +11232,7 @@
       "appStoreUrl": "https://itunes.apple.com/us/app/grandperspective/id1111570163"
     },
     {
-      "id": 978,
+      "id": 979,
       "name": "Gray",
       "url": "https://github.com/zenangst/Gray",
       "description": "Per-app light/dark mode switcher",
@@ -11231,7 +11244,7 @@
       "repoUrl": "https://github.com/zenangst/Gray"
     },
     {
-      "id": 979,
+      "id": 980,
       "name": "HandShaker",
       "url": "http://www.smartisan.com/apps/handshaker",
       "description": "Manage Android phone content on Mac",
@@ -11242,7 +11255,7 @@
       "isAppStore": false
     },
     {
-      "id": 980,
+      "id": 981,
       "name": "iStat Menus",
       "url": "https://bjango.com/mac/istatmenus/",
       "description": "Advanced system monitor for menubar",
@@ -11253,7 +11266,7 @@
       "isAppStore": false
     },
     {
-      "id": 981,
+      "id": 982,
       "name": "iStats",
       "url": "https://github.com/Chris911/iStats",
       "description": "Command-line system information tool",
@@ -11264,7 +11277,7 @@
       "isAppStore": false
     },
     {
-      "id": 982,
+      "id": 983,
       "name": "Juice",
       "url": "https://github.com/brianmichel/Juice",
       "description": "Enhanced battery information display",
@@ -11276,7 +11289,7 @@
       "repoUrl": "https://github.com/brianmichel/Juice"
     },
     {
-      "id": 983,
+      "id": 984,
       "name": "KeepingYouAwake",
       "url": "https://github.com/newmarcel/KeepingYouAwake",
       "description": "Caffeine alternative with dark mode support",
@@ -11288,7 +11301,7 @@
       "repoUrl": "https://github.com/newmarcel/KeepingYouAwake"
     },
     {
-      "id": 984,
+      "id": 985,
       "name": "MagicQuit",
       "url": "https://magicquit.com/",
       "description": "Automatically closes unused apps on macOS to free memory, declutter the desktop, and improve battery life",
@@ -11300,7 +11313,7 @@
       "repoUrl": "https://github.com/BigBerny/magicquit"
     },
     {
-      "id": 985,
+      "id": 986,
       "name": "MiddleDrag",
       "url": "https://github.com/NullPointerDepressiveDisorder/MiddleDrag",
       "description": "Three-finger trackpad gestures for middle-click and middle-drag on macOS",
@@ -11312,7 +11325,7 @@
       "repoUrl": "https://github.com/NullPointerDepressiveDisorder/MiddleDrag"
     },
     {
-      "id": 986,
+      "id": 987,
       "name": "Monity",
       "url": "http://www.monityapp.com/",
       "description": "System monitoring widget for OS X",
@@ -11323,7 +11336,7 @@
       "isAppStore": false
     },
     {
-      "id": 987,
+      "id": 988,
       "name": "Mounty",
       "url": "http://enjoygineering.com/mounty/",
       "description": "Tiny tool to re-mount write-protected NTFS volumes under Mac OS X 10.9+ in read-write mode",
@@ -11334,7 +11347,7 @@
       "isAppStore": false
     },
     {
-      "id": 988,
+      "id": 989,
       "name": "NitroShare",
       "url": "https://nitroshare.net/",
       "description": "Cross-platform network file transfer utility",
@@ -11346,7 +11359,7 @@
       "repoUrl": "https://github.com/nitroshare/nitroshare-desktop"
     },
     {
-      "id": 989,
+      "id": 990,
       "name": "OmniDiskSweeper",
       "url": "https://www.omnigroup.com/more",
       "description": "Shows you the files on your drive, ordered by size. It can be used to find and remove unused files",
@@ -11357,7 +11370,7 @@
       "isAppStore": false
     },
     {
-      "id": 990,
+      "id": 991,
       "name": "OnyX",
       "url": "https://www.titanium-software.fr/en/onyx.html",
       "description": "Multifunction utility to verify disks and files, run cleaning and system maintenance tasks, configure hidden options and more",
@@ -11368,7 +11381,7 @@
       "isAppStore": false
     },
     {
-      "id": 991,
+      "id": 992,
       "name": "Pearcleaner",
       "url": "https://itsalin.com/appInfo/?id=pearcleaner",
       "description": "A free, source-available and fair-code licensed mac app cleaner",
@@ -11380,7 +11393,7 @@
       "repoUrl": "https://github.com/alienator88/Pearcleaner"
     },
     {
-      "id": 992,
+      "id": 993,
       "name": "Paragon NTFS",
       "url": "https://www.paragon-software.com/home/ntfs-mac/",
       "description": "Read/write access to NTFS in macOS Sierra",
@@ -11391,7 +11404,7 @@
       "isAppStore": false
     },
     {
-      "id": 993,
+      "id": 994,
       "name": "stats",
       "url": "https://github.com/exelban/stats",
       "description": "free Mac system monitor for the menubar",
@@ -11403,7 +11416,7 @@
       "repoUrl": "https://github.com/exelban/stats"
     },
     {
-      "id": 994,
+      "id": 995,
       "name": "Sensei",
       "url": "https://sensei.app/",
       "description": "Sensei is a multi-tool for Mac performance, with features spanning across both hardware and software",
@@ -11414,7 +11427,7 @@
       "isAppStore": false
     },
     {
-      "id": 995,
+      "id": 996,
       "name": "Sleepr",
       "url": "https://sleepr.app/",
       "description": "Sleepr brings back sleep timer on macOS",
@@ -11426,7 +11439,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/sleepr-app/id6465683427"
     },
     {
-      "id": 996,
+      "id": 997,
       "name": "Sloth",
       "url": "https://sveinbjorn.org/sloth/",
       "description": "Shows all open files, directories, sockets, pipes and devices in use by all running processes",
@@ -11438,7 +11451,7 @@
       "repoUrl": "https://github.com/sveinbjornt/Sloth/"
     },
     {
-      "id": 997,
+      "id": 998,
       "name": "SteerMouse",
       "url": "https://plentycom.jp/en/steermouse/",
       "description": "SteerMouse is a utility that lets you freely customize buttons, wheels and cursor speed. Both USB and Bluetooth mice are supported",
@@ -11449,7 +11462,7 @@
       "isAppStore": false
     },
     {
-      "id": 998,
+      "id": 999,
       "name": "SwiftQuit",
       "url": "https://github.com/onebadidea/swiftquit/",
       "description": "Enables automatic quitting of macOS apps when closing their windows",
@@ -11461,7 +11474,7 @@
       "repoUrl": "https://github.com/onebadidea/swiftquit"
     },
     {
-      "id": 999,
+      "id": 1000,
       "name": "Core Tunnel",
       "url": "https://codinn.com/tunnel/",
       "description": "Application for managing SSH connections",
@@ -11473,7 +11486,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/core-tunnel/id1354318707"
     },
     {
-      "id": 1000,
+      "id": 1001,
       "name": "TG Pro",
       "url": "https://www.tunabellysoftware.com/tgpro/",
       "description": "Temperature monitoring, fan control & hardware diagnostics to help keep your Mac cool and healthy",
@@ -11484,7 +11497,7 @@
       "isAppStore": false
     },
     {
-      "id": 1001,
+      "id": 1002,
       "name": "Time Machine Inspector",
       "url": "https://github.com/probablykasper/time-machine-inspector",
       "description": "Find out what's hogging up your Time Machine backups",
@@ -11496,7 +11509,7 @@
       "repoUrl": "https://github.com/probablykasper/time-machine-inspector"
     },
     {
-      "id": 1002,
+      "id": 1003,
       "name": "Tuxera NTFS",
       "url": "http://www.tuxera.com/products/tuxera-ntfs-for-mac/",
       "description": "Full read-write compatibility with NTFS-formatted drives on a Mac",
@@ -11507,7 +11520,7 @@
       "isAppStore": false
     },
     {
-      "id": 1003,
+      "id": 1004,
       "name": "Overkill",
       "url": "https://github.com/KrauseFx/overkill-for-mac",
       "description": "Stop iTunes from opening when you connect your iPhone",
@@ -11518,7 +11531,7 @@
       "isAppStore": false
     },
     {
-      "id": 1004,
+      "id": 1005,
       "name": "OpenEmu",
       "url": "http://openemu.org/",
       "description": "A great video game console emulator, supports many different emulators in a single application. (e.g. Sony PSP, GameBoy, NDS and so on)",
@@ -11529,7 +11542,7 @@
       "isAppStore": false
     },
     {
-      "id": 1005,
+      "id": 1006,
       "name": "PlayCover",
       "url": "https://github.com/PlayCover/PlayCover",
       "description": "Run iOS apps and games on Apple Silicon Macs with mouse, keyboard and controller support",
@@ -11540,7 +11553,7 @@
       "isAppStore": false
     },
     {
-      "id": 1006,
+      "id": 1007,
       "name": "Porting Kit",
       "url": "http://portingkit.com/",
       "description": "Install Windows® Games inside your Mac",
@@ -11551,7 +11564,7 @@
       "isAppStore": false
     },
     {
-      "id": 1007,
+      "id": 1008,
       "name": "PPSSPP",
       "url": "https://www.ppsspp.org",
       "description": "A awesome PSP emulator for any OS you can dream of!",
@@ -11562,7 +11575,7 @@
       "isAppStore": false
     },
     {
-      "id": 1008,
+      "id": 1009,
       "name": "RPCS3",
       "url": "https://rpcs3.net",
       "description": "The Open-source PlayStation 3 Emulator",
@@ -11573,7 +11586,7 @@
       "isAppStore": false
     },
     {
-      "id": 1009,
+      "id": 1010,
       "name": "Ryubing",
       "url": "https://github.com/Ryubing",
       "description": "A fork of the discontinued Switch emulator, Ryujinx",
@@ -11584,7 +11597,7 @@
       "isAppStore": false
     },
     {
-      "id": 1010,
+      "id": 1011,
       "name": "Suyu",
       "url": "https://suyu.dev/",
       "description": "A familiar, open source, and powerful Nintendo Switch emulator",
@@ -11595,7 +11608,7 @@
       "isAppStore": false
     },
     {
-      "id": 1011,
+      "id": 1012,
       "name": "Whisky",
       "url": "https://getwhisky.app/",
       "description": "Wine wrapper that supports GPTK (Game Porting Toolkit)",
@@ -11606,7 +11619,7 @@
       "isAppStore": false
     },
     {
-      "id": 1012,
+      "id": 1013,
       "name": "AnyDesk",
       "url": "https://anydesk.com",
       "description": "Provides remote access across multiple machines",
@@ -11617,7 +11630,7 @@
       "isAppStore": false
     },
     {
-      "id": 1013,
+      "id": 1014,
       "name": "Moonlight",
       "url": "https://github.com/moonlight-stream/moonlight-qt",
       "description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)",
@@ -11629,7 +11642,7 @@
       "repoUrl": "https://github.com/moonlight-stream/moonlight-qt"
     },
     {
-      "id": 1014,
+      "id": 1015,
       "name": "Parsec",
       "url": "https://parsec.app",
       "description": "Parsec offers a seamless 4k experience at up to 60 frames per second with near-zero latency. Secure, flexible, effortless access to whatever you do, at any time, from wherever you go",
@@ -11640,7 +11653,7 @@
       "isAppStore": false
     },
     {
-      "id": 1015,
+      "id": 1016,
       "name": "RealVNC",
       "url": "https://www.realvnc.com",
       "description": "The original and best software for remote access across desktop and mobile",
@@ -11651,7 +11664,7 @@
       "isAppStore": false
     },
     {
-      "id": 1016,
+      "id": 1017,
       "name": "RoyalTSX",
       "url": "https://www.royalapps.com/ts/mac/features",
       "description": "Royal TSX is an ideal tool for system engineers and other IT professionals who need remote access to systems with different protocols",
@@ -11662,7 +11675,7 @@
       "isAppStore": false
     },
     {
-      "id": 1017,
+      "id": 1018,
       "name": "RustDesk",
       "url": "https://rustdesk.com/",
       "description": "Yet another remote desktop software",
@@ -11674,7 +11687,7 @@
       "repoUrl": "https://github.com/rustdesk/rustdesk"
     },
     {
-      "id": 1018,
+      "id": 1019,
       "name": "Steam Link",
       "url": "https://apps.apple.com/us/app/steam-link/id1246969117",
       "description": "The Steam Link app allows you to play your Steam games across all your computers",
@@ -11685,7 +11698,7 @@
       "isAppStore": false
     },
     {
-      "id": 1019,
+      "id": 1020,
       "name": "Sunshine",
       "url": "https://github.com/LizardByte/Sunshine",
       "description": "Self-hosted game stream host for Moonlight",
@@ -11697,7 +11710,7 @@
       "repoUrl": "https://github.com/LizardByte/Sunshine"
     },
     {
-      "id": 1020,
+      "id": 1021,
       "name": "TeamViewer",
       "url": "https://www.teamviewer.com/en",
       "description": "Proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing, and file transfer between computers",
@@ -11708,7 +11721,7 @@
       "isAppStore": false
     },
     {
-      "id": 1021,
+      "id": 1022,
       "name": "Windows App",
       "url": "https://apps.apple.com/us/app/windows-app/id1295203466",
       "description": "Connect to a remote PC or virtual apps and desktops made available by your admin",
@@ -11719,7 +11732,7 @@
       "isAppStore": false
     },
     {
-      "id": 1022,
+      "id": 1023,
       "name": "QLMarkdown",
       "url": "https://github.com/sbarex/QLMarkdown",
       "description": "Quick Look extension for Markdown files. -",
@@ -11730,7 +11743,7 @@
       "isAppStore": false
     },
     {
-      "id": 1023,
+      "id": 1024,
       "name": "quick-look-plugins",
       "url": "https://github.com/sindresorhus/quick-look-plugins",
       "description": "List of useful [Quick Look](https://en.wikipedia.org/wiki/Quick_Look) plugins for developers",
@@ -11741,7 +11754,7 @@
       "isAppStore": false
     },
     {
-      "id": 1024,
+      "id": 1025,
       "name": "Syntax Highlight",
       "url": "https://github.com/sbarex/SourceCodeSyntaxHighlight",
       "description": "Quick Look extension for highlight source code files. -",
@@ -11752,7 +11765,7 @@
       "isAppStore": false
     },
     {
-      "id": 1025,
+      "id": 1026,
       "name": "Setapp",
       "url": "https://setapp.sjv.io/c/6018600/343321/5114",
       "description": "The best free and paid apps (like CleanShot, Bartender, Paste, TablePlus, etc.) in one suite for only 10$/month!",
@@ -11763,7 +11776,7 @@
       "isAppStore": false
     },
     {
-      "id": 1026,
+      "id": 1027,
       "name": "Applite",
       "url": "https://aerolite.dev/applite",
       "description": "User-friendly GUI app for Homebrew Casks. Install, update, and uninstall apps with a single click",
@@ -11775,7 +11788,7 @@
       "repoUrl": "https://github.com/milanvarady/Applite"
     },
     {
-      "id": 1027,
+      "id": 1028,
       "name": "Cork",
       "url": "https://corkmac.app",
       "description": "An intuitive and complete Homebrew GUI written in SwiftUI that supports all Homebrew features",
@@ -11787,7 +11800,7 @@
       "repoUrl": "https://github.com/buresdv/cork"
     },
     {
-      "id": 1028,
+      "id": 1029,
       "name": "Homebrew",
       "url": "https://brew.sh/",
       "description": "The missing package manager for macOS",
@@ -11799,7 +11812,7 @@
       "repoUrl": "https://github.com/Homebrew/brew/"
     },
     {
-      "id": 1029,
+      "id": 1030,
       "name": "MacPorts",
       "url": "https://www.macports.org/",
       "description": "Open-source community initiative to design an easy-to-use system for compiling, installing, and upgrading either command-line, X11 or Aqua based open-source software on the Mac OS X operating system",
@@ -11811,7 +11824,7 @@
       "repoUrl": "https://github.com/macports/"
     },
     {
-      "id": 1030,
+      "id": 1031,
       "name": "MacUpdate Desktop",
       "url": "https://www.macupdate.com/",
       "description": "Simplifies finding, buying and installing apps for your Mac",
@@ -11822,7 +11835,7 @@
       "isAppStore": false
     },
     {
-      "id": 1031,
+      "id": 1032,
       "name": "alternativeTo",
       "url": "http://alternativeto.net/",
       "description": "Also a very nice community. If you are looking for some alternative apps **FOR** Windows or another platform, check this site",
@@ -11833,7 +11846,7 @@
       "isAppStore": false
     },
     {
-      "id": 1032,
+      "id": 1033,
       "name": "Slant",
       "url": "https://www.slant.co",
       "description": "I personally recommend this. This is a platform where you can compare apps side-by-side, you might get an idea by seeing other users recommendations. Please contribute if you find an application from this list!",
@@ -11844,7 +11857,7 @@
       "isAppStore": false
     },
     {
-      "id": 1033,
+      "id": 1034,
       "name": "Buy software, once",
       "url": "https://buyoncesoftware.com/",
       "description": "The place to find all the software you can buy one time, and own for a lifetime",
@@ -11855,7 +11868,7 @@
       "isAppStore": false
     },
     {
-      "id": 1034,
+      "id": 1035,
       "name": "Open Alternative",
       "url": "https://openalternative.co/",
       "description": "Discover Open Source Alternatives to Popular Software. A curated collection of the best open source alternatives to everyday SaaS products. Save money with reliable tools hand-picked for you",
@@ -11866,7 +11879,7 @@
       "isAppStore": false
     },
     {
-      "id": 1035,
+      "id": 1036,
       "name": "Mac Power Users",
       "url": "https://www.relay.fm/mpu",
       "description": "Learn about getting the most from your Apple technology with focused topics and workflow guests",
@@ -11983,10 +11996,10 @@
     "Podcasts": []
   },
   "meta": {
-    "totalApps": 1035,
-    "freeApps": 658,
+    "totalApps": 1036,
+    "freeApps": 659,
     "paidApps": 377,
-    "openSourceApps": 465,
-    "generatedAt": "2026-01-17T01:39:39.621Z"
+    "openSourceApps": 466,
+    "generatedAt": "2026-01-18T01:51:09.422Z"
   }
 }
