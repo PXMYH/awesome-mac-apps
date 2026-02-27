@@ -7843,6 +7843,17 @@
     },
     {
       "id": 686,
+      "name": "SubList",
+      "url": "https://apps.apple.com/app/sublist-subscription-list/id6757860829",
+      "description": "Track subscriptions, renewals, and spending in one place with reminders, analytics, and iCloud sync",
+      "category": "Finance",
+      "subcategory": "Finance",
+      "pricing": "paid",
+      "isOpenSource": false,
+      "isAppStore": false
+    },
+    {
+      "id": 687,
       "name": "Cryptomator",
       "url": "https://cryptomator.org/",
       "description": "Multi-platform transparent client-side encryption of your files in the cloud",
@@ -7853,7 +7864,7 @@
       "isAppStore": false
     },
     {
-      "id": 687,
+      "id": 688,
       "name": "Deadbolt",
       "url": "https://github.com/alichtman/deadbolt",
       "description": "The easiest file encryption tool you'll ever use. macOS-compatible, and open-source so you can trust it",
@@ -7865,7 +7876,7 @@
       "repoUrl": "https://github.com/alichtman/deadbolt"
     },
     {
-      "id": 688,
+      "id": 689,
       "name": "Antivirus One",
       "url": "https://cleanerone.trendmicro.com/antivirus-one-for-mac/?utm_source=github&utm_medium=referral&utm_campaign=githubproject",
       "description": "Trusted Mac Security Protection: Protect your Mac from viruses, malware and adware. Block potential web threats and protect your Mac against vulnerabilities",
@@ -7877,7 +7888,7 @@
       "appStoreUrl": "https://apps.apple.com/app/apple-store/id1068435535?pt=444218&ct=GitHub&mt=8"
     },
     {
-      "id": 689,
+      "id": 690,
       "name": "BlockBlock",
       "url": "https://objective-see.com/products/blockblock.html",
       "description": "Me: \"Please alert me whenever anything is persistently installed.\" BlockBlock: \"You got it\"",
@@ -7889,7 +7900,7 @@
       "repoUrl": "https://github.com/objective-see/BlockBlock"
     },
     {
-      "id": 690,
+      "id": 691,
       "name": "Dylib Hijack Scanner",
       "url": "https://objective-see.com/products/dhs.html",
       "description": "Simple utility that will scan your computer for applications that are either susceptible to dylib hijacking or have been hijacked",
@@ -7901,7 +7912,7 @@
       "repoUrl": "https://github.com/objective-see/DylibHijackScanner"
     },
     {
-      "id": 691,
+      "id": 692,
       "name": "KextViewer",
       "url": "https://objective-see.com/products/kextviewr.html",
       "description": "View all modules on that are loaded in the OS kernel",
@@ -7913,7 +7924,7 @@
       "repoUrl": "https://github.com/objective-see/KextViewr"
     },
     {
-      "id": 692,
+      "id": 693,
       "name": "KnockKnock",
       "url": "https://objective-see.com/products/knockknock.html",
       "description": "See what's persistently installed on your Mac",
@@ -7925,7 +7936,7 @@
       "repoUrl": "https://github.com/objective-see/KnockKnock"
     },
     {
-      "id": 693,
+      "id": 694,
       "name": "LinkLiar",
       "url": "http://halo.github.io/LinkLiar",
       "description": "Link-Layer MAC spoofing GUI for macOS",
@@ -7937,7 +7948,7 @@
       "repoUrl": "https://github.com/halo/LinkLiar"
     },
     {
-      "id": 694,
+      "id": 695,
       "name": "LockDown",
       "url": "https://objective-see.com/products/lockdown.html",
       "description": "Open-source tool for El Capitan that audits and remediates security configuration settings",
@@ -7949,7 +7960,7 @@
       "repoUrl": "https://bitbucket.org/objective-see/lockdown"
     },
     {
-      "id": 695,
+      "id": 696,
       "name": "LuLu",
       "url": "https://objective-see.com/products/lulu.html",
       "description": "LuLu is the free macOS firewall that aims to block unauthorized (outgoing) network traffic",
@@ -7961,7 +7972,7 @@
       "repoUrl": "https://github.com/objective-see/LuLu"
     },
     {
-      "id": 696,
+      "id": 697,
       "name": "MalwareBytes",
       "url": "https://www.malwarebytes.com/mac-download/",
       "description": "Malwarebytes crushes the growing threat of Mac malware, so you are protected and your machine keeps running silky smooth. Cybersecurity smart enough for the Mac",
@@ -7972,7 +7983,7 @@
       "isAppStore": false
     },
     {
-      "id": 697,
+      "id": 698,
       "name": "Mana Security",
       "url": "https://www.manasecurity.com/",
       "description": "vulnerability management app for individuals",
@@ -7984,7 +7995,7 @@
       "repoUrl": "https://github.com/manasecurity/mana-security-app"
     },
     {
-      "id": 698,
+      "id": 699,
       "name": "Vulert",
       "url": "https://vulert.com",
       "description": "Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more",
@@ -7995,7 +8006,7 @@
       "isAppStore": false
     },
     {
-      "id": 699,
+      "id": 700,
       "name": "OverSight",
       "url": "https://objective-see.com/products/oversight.html",
       "description": "Monitor mic and webcam, alerting you when the internal mic is activated, or whenever a process accesses the webcam",
@@ -8007,7 +8018,7 @@
       "repoUrl": "https://github.com/objective-see/OverSight"
     },
     {
-      "id": 700,
+      "id": 701,
       "name": "ParetoSecurity",
       "url": "https://paretosecurity.com/",
       "description": "A MenuBar app to automatically audit your Mac for basic security hygiene",
@@ -8019,7 +8030,7 @@
       "repoUrl": "https://github.com/ParetoSecurity/pareto-mac"
     },
     {
-      "id": 701,
+      "id": 702,
       "name": "RansomWhere?",
       "url": "https://objective-see.com/products/ransomwhere.html",
       "description": "Generic Ransomware Detection",
@@ -8031,7 +8042,7 @@
       "repoUrl": "https://github.com/objective-see/RansomWhere"
     },
     {
-      "id": 702,
+      "id": 703,
       "name": "stronghold",
       "url": "https://github.com/alichtman/stronghold",
       "description": "Easily configure MacOS security settings from the terminal",
@@ -8043,7 +8054,7 @@
       "repoUrl": "https://github.com/alichtman/stronghold"
     },
     {
-      "id": 703,
+      "id": 704,
       "name": "Suspicious Package",
       "url": "https://www.mothersruin.com/software/SuspiciousPackage/",
       "description": "An application for inspecting macOS installer packages",
@@ -8054,7 +8065,7 @@
       "isAppStore": false
     },
     {
-      "id": 704,
+      "id": 705,
       "name": "swiftGuard",
       "url": "https://github.com/Lennolium/swiftGuard",
       "description": "Lightweight App that safeguards your System's USB Ports from any Unauthorized Access and performs various Counter-Measures",
@@ -8066,7 +8077,7 @@
       "repoUrl": "https://github.com/Lennolium/swiftGuard"
     },
     {
-      "id": 705,
+      "id": 706,
       "name": "TaskExplorer",
       "url": "https://objective-see.com/products/taskexplorer.html",
       "description": "Explore all processes running on your Mac with TaskExplorer",
@@ -8078,7 +8089,7 @@
       "repoUrl": "https://github.com/objective-see/TaskExplorer"
     },
     {
-      "id": 706,
+      "id": 707,
       "name": "What's Your Sign?",
       "url": "https://objective-see.com/products/whatsyoursign.html",
       "description": "Adds menu item to Finder.app to display the cryptographic signing information for any file",
@@ -8090,7 +8101,7 @@
       "repoUrl": "https://github.com/objective-see/WhatsYourSign"
     },
     {
-      "id": 707,
+      "id": 708,
       "name": "Algo",
       "url": "https://github.com/trailofbits/algo",
       "description": "Personal IPSEC VPN in the cloud",
@@ -8102,7 +8113,7 @@
       "repoUrl": "https://github.com/trailofbits/algo"
     },
     {
-      "id": 708,
+      "id": 709,
       "name": "ClashX Guide",
       "url": "https://clashx.tech",
       "description": "Comprehensive tutorials, tools, and troubleshooting guides for ClashX proxy on macOS. Features YAML validator, rule generator, and optimization tips",
@@ -8113,7 +8124,7 @@
       "isAppStore": false
     },
     {
-      "id": 709,
+      "id": 710,
       "name": "Cloudflare WARP",
       "url": "https://1.1.1.1/",
       "description": "Replaces the connection between your device and the Internet with a modern, optimized, protocol",
@@ -8124,7 +8135,7 @@
       "isAppStore": false
     },
     {
-      "id": 710,
+      "id": 711,
       "name": "Hiddify",
       "url": "https://github.com/hiddify/hiddify-app",
       "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc",
@@ -8136,7 +8147,7 @@
       "repoUrl": "https://github.com/hiddify/hiddify-app"
     },
     {
-      "id": 711,
+      "id": 712,
       "name": "Jumper VPN",
       "url": "https://jumpervpn.com/",
       "description": "VPN Client for Mac and other platforms, secure, fast VPN proxy",
@@ -8147,7 +8158,7 @@
       "isAppStore": false
     },
     {
-      "id": 712,
+      "id": 713,
       "name": "Lantern",
       "url": "https://getlantern.org",
       "description": "Free application that delivers fast, reliable and secure access to the open internet",
@@ -8158,7 +8169,7 @@
       "isAppStore": false
     },
     {
-      "id": 713,
+      "id": 714,
       "name": "Mullvad VPN",
       "url": "https://mullvad.net",
       "description": "Privacy focused VPN that requires no personal information for use, keeps no logs, and allows payments with Bitcoin Cash, Monero and more",
@@ -8170,7 +8181,7 @@
       "repoUrl": "https://github.com/mullvad/mullvadvpn-app"
     },
     {
-      "id": 714,
+      "id": 715,
       "name": "Outline",
       "url": "https://getoutline.org/",
       "description": "Outline makes it easy to create a VPN server, giving anyone access to the free and open internet",
@@ -8182,7 +8193,7 @@
       "repoUrl": "https://github.com/Jigsaw-Code"
     },
     {
-      "id": 715,
+      "id": 716,
       "name": "RerouteMe",
       "url": "https://nadenco.gumroad.com/l/rerouteme",
       "description": "An easy one-click macOS Proxy Configuration app",
@@ -8193,7 +8204,7 @@
       "isAppStore": false
     },
     {
-      "id": 716,
+      "id": 717,
       "name": "ShadowsocksX-NG",
       "url": "https://github.com/qiuyuzhou/ShadowsocksX-NG",
       "description": "Next generation of ShadowsocksX",
@@ -8204,7 +8215,7 @@
       "isAppStore": false
     },
     {
-      "id": 717,
+      "id": 718,
       "name": "ShadowsocksX",
       "url": "http://shadowsocks.org/",
       "description": "Secure socks5 proxy, designed to protect your internet traffic",
@@ -8215,7 +8226,7 @@
       "isAppStore": false
     },
     {
-      "id": 718,
+      "id": 719,
       "name": "Shimo",
       "url": "https://www.shimovpn.com/",
       "description": "VPN Client for Mac",
@@ -8226,7 +8237,7 @@
       "isAppStore": false
     },
     {
-      "id": 719,
+      "id": 720,
       "name": "SpechtLite",
       "url": "https://github.com/zhuhaow/SpechtLite",
       "description": "Rule-based proxy app for macOS",
@@ -8238,7 +8249,7 @@
       "repoUrl": "https://github.com/shadowsocks"
     },
     {
-      "id": 720,
+      "id": 721,
       "name": "Surge",
       "url": "https://nssurge.com/",
       "description": "Web developer tool and proxy utility for iOS 9",
@@ -8249,7 +8260,7 @@
       "isAppStore": false
     },
     {
-      "id": 721,
+      "id": 722,
       "name": "tinc",
       "url": "https://www.tinc-vpn.org",
       "description": "Secure mesh VPN software",
@@ -8261,7 +8272,7 @@
       "repoUrl": "https://www.tinc-vpn.org/git/browse?p=tinc"
     },
     {
-      "id": 722,
+      "id": 723,
       "name": "Tunnelbear",
       "url": "https://www.tunnelbear.com",
       "description": "Really simple VPN to browse the web privately & securely. Unblock websites around the world with applications for Mac, PC, iOS, Android & Chrome",
@@ -8272,7 +8283,7 @@
       "isAppStore": false
     },
     {
-      "id": 723,
+      "id": 724,
       "name": "Tunnelblick",
       "url": "https://tunnelblick.net/downloads.html",
       "description": "Free, open-source graphic user interface for OpenVPN on OS X",
@@ -8283,7 +8294,7 @@
       "isAppStore": false
     },
     {
-      "id": 724,
+      "id": 725,
       "name": "Windscribe",
       "url": "https://windscribe.com",
       "description": "Gives 10GB free bandwidth monthly on the spot and gives limited server location options (for users on free plan). Connection also takes very less time",
@@ -8294,7 +8305,7 @@
       "isAppStore": false
     },
     {
-      "id": 725,
+      "id": 726,
       "name": "Tailscale",
       "url": "https://tailscale.com/",
       "description": "Tailscale makes creating software-defined networks easy: securely connecting users, services, and devices",
@@ -8305,7 +8316,7 @@
       "isAppStore": false
     },
     {
-      "id": 726,
+      "id": 727,
       "name": "DNS Easy Switcher",
       "url": "https://github.com/glinford/dns-easy-switcher",
       "description": "A simple macOS menu bar app that allows you to quickly switch between different DNS providers (or add custom ones)",
@@ -8317,7 +8328,7 @@
       "repoUrl": "https://github.com/glinford/dns-easy-switcher"
     },
     {
-      "id": 727,
+      "id": 728,
       "name": "Dropshelf",
       "url": "https://pilotmoon.com/dropshelf/",
       "description": "A drag and drop helper app for macOS",
@@ -8328,7 +8339,7 @@
       "isAppStore": false
     },
     {
-      "id": 728,
+      "id": 729,
       "name": "Dropover",
       "url": "https://dropoverapp.com/",
       "description": "A macOS utility that makes Drag and Drop easier. Stash, gather or move draggable content without having to open side-by-side windows",
@@ -8340,7 +8351,18 @@
       "appStoreUrl": "https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052"
     },
     {
-      "id": 729,
+      "id": 730,
+      "name": "cmd+x",
+      "url": "https://apps.apple.com/app/cmd-x/id6754665762",
+      "description": "Launch Activity Monitor with Ctrl+Opt+Delete, cut and move files in Finder with Cmd+X",
+      "category": "Utilities",
+      "subcategory": "Utilities",
+      "pricing": "paid",
+      "isOpenSource": false,
+      "isAppStore": false
+    },
+    {
+      "id": 731,
       "name": "CleanClip",
       "url": "https://cleanclip.cc",
       "description": "The cleanest Clipboard Manager on macOS, ever!",
@@ -8351,7 +8373,7 @@
       "isAppStore": false
     },
     {
-      "id": 730,
+      "id": 732,
       "name": "Clipboard",
       "url": "https://getclipboard.app/",
       "description": "Easy-to-use terminal clipboard manager for all platforms",
@@ -8363,7 +8385,7 @@
       "repoUrl": "https://github.com/Slackadays/Clipboard"
     },
     {
-      "id": 731,
+      "id": 733,
       "name": "ClipMenu",
       "url": "http://www.clipmenu.com",
       "description": "Clipboard manager for Mac OS X",
@@ -8375,7 +8397,7 @@
       "repoUrl": "https://github.com/naotaka/ClipMenu"
     },
     {
-      "id": 732,
+      "id": 734,
       "name": "ClipTools",
       "url": "https://macmost.com/cliptools",
       "description": "ClipTools is a status menu application that gives you access to a variety of simple clipboard utilities",
@@ -8387,7 +8409,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/cliptools/id1619348240?mt=12"
     },
     {
-      "id": 733,
+      "id": 735,
       "name": "Clipy",
       "url": "https://clipy-app.com/",
       "description": "Clipy is a Clipboard extension app for macOS. Based on ClipMenu",
@@ -8399,7 +8421,7 @@
       "repoUrl": "https://github.com/Clipy/Clipy"
     },
     {
-      "id": 734,
+      "id": 736,
       "name": "CopyQ",
       "url": "https://hluk.github.io/CopyQ",
       "description": "Clipboard Manager with Advanced Features",
@@ -8411,7 +8433,7 @@
       "repoUrl": "https://github.com/hluk/CopyQ"
     },
     {
-      "id": 735,
+      "id": 737,
       "name": "iCopy",
       "url": "https://apps.apple.com/cn/app/icopy-%E5%89%AA%E5%88%87%E6%9D%BF-%E5%BF%AB%E6%8D%B7%E5%9B%9E%E5%A4%8D%E5%B7%A5%E5%85%B7/id1638023723?mt=12",
       "description": "Clipboard management, quick reply, efficiency multiplier artifact",
@@ -8423,7 +8445,7 @@
       "appStoreUrl": "https://apps.apple.com/cn/app/icopy-%E5%89%AA%E5%88%87%E6%9D%BF-%E5%BF%AB%E6%8D%B7%E5%9B%9E%E5%A4%8D%E5%B7%A5%E5%85%B7/id1638023723?mt=12"
     },
     {
-      "id": 736,
+      "id": 738,
       "name": "iPaste",
       "url": "https://en.toolinbox.net/iPaste",
       "description": "Lightweight and efficient clipboard tool",
@@ -8435,7 +8457,7 @@
       "appStoreUrl": "https://itunes.apple.com/app/id1056935452?ls=1&mt=12&at=1000lv4R&ct=iPaste_me"
     },
     {
-      "id": 737,
+      "id": 739,
       "name": "Paste Quick",
       "url": "https://wangchujiang.com/paste-quick/",
       "description": "A simple, privacy-first clipboard manager",
@@ -8447,7 +8469,7 @@
       "appStoreUrl": "https://apps.apple.com/app/paste-quick/6723903021"
     },
     {
-      "id": 738,
+      "id": 740,
       "name": "Paste",
       "url": "http://pasteapp.me",
       "description": "Smart clipboard history & snippets manager",
@@ -8459,7 +8481,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/paste-clipboard-history-manager/id967805235"
     },
     {
-      "id": 739,
+      "id": 741,
       "name": "PasteBar",
       "url": "https://github.com/PasteBar/PasteBarApp",
       "description": "Limitless, Free Clipboard Manager for Mac and Windows",
@@ -8471,7 +8493,7 @@
       "repoUrl": "https://github.com/PasteBar/PasteBarApp"
     },
     {
-      "id": 740,
+      "id": 742,
       "name": "PasteBot",
       "url": "https://tapbots.com/pastebot/",
       "description": "Powerful clipboard manager",
@@ -8483,7 +8505,7 @@
       "appStoreUrl": "https://itunes.apple.com/us/app/pastebot/id1179623856"
     },
     {
-      "id": 741,
+      "id": 743,
       "name": "Pure Paste",
       "url": "https://sindresorhus.com/pure-paste",
       "description": "Paste as plain text by default",
@@ -8495,7 +8517,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id1611378436"
     },
     {
-      "id": 742,
+      "id": 744,
       "name": "SaneClip",
       "url": "https://saneclip.com",
       "description": "Clipboard manager with Touch ID protection, AES-256-GCM encryption at rest, and sensitive data detection",
@@ -8507,7 +8529,7 @@
       "repoUrl": "https://github.com/sane-apps/SaneClip"
     },
     {
-      "id": 743,
+      "id": 745,
       "name": "Flycut",
       "url": "https://github.com/TermiT/Flycut",
       "description": "Clean and simple clipboard manager for developers",
@@ -8519,7 +8541,7 @@
       "repoUrl": "https://github.com/TermiT/Flycut"
     },
     {
-      "id": 744,
+      "id": 746,
       "name": "Maccy",
       "url": "https://maccy.app/",
       "description": "Lightweight clipboard manager for macOS",
@@ -8531,7 +8553,7 @@
       "repoUrl": "https://github.com/p0deje/Maccy"
     },
     {
-      "id": 745,
+      "id": 747,
       "name": "OneClip",
       "url": "https://github.com/Wcowin/OneClip",
       "description": "A simple and professional macOS clipboard manager",
@@ -8543,7 +8565,7 @@
       "repoUrl": "https://github.com/Wcowin/OneClip"
     },
     {
-      "id": 746,
+      "id": 748,
       "name": "uPaste",
       "url": "https://okaapps.com/product/1503649026",
       "description": "Smart clipboard history & snippets manager, record and organize your copy/paste history automatically. Then you can use your pasteboard content anytime, any where with elegant beautiful UI",
@@ -8555,7 +8577,7 @@
       "appStoreUrl": "macappstore://itunes.apple.com/app/id1503649026?pt=119209922&l=en&mt=12&ct=github"
     },
     {
-      "id": 747,
+      "id": 749,
       "name": "Yippy",
       "url": "https://github.com/mattDavo/Yippy",
       "description": "Clipboard manager with user-friendly UI",
@@ -8567,7 +8589,7 @@
       "repoUrl": "https://github.com/mattDavo/Yippy"
     },
     {
-      "id": 748,
+      "id": 750,
       "name": "ClipFlow",
       "url": "https://github.com/praneeth552/clipflow",
       "description": "Free clipboard history manager with terminal-style navigation",
@@ -8579,7 +8601,7 @@
       "repoUrl": "https://github.com/praneeth552/clipflow"
     },
     {
-      "id": 749,
+      "id": 751,
       "name": "Anvil",
       "url": "https://anvilformac.com/",
       "description": "Anvil is a beautiful menubar app for managing local websites. Serve up static sites and Rack apps with simple URLs and zero configuration",
@@ -8590,7 +8612,7 @@
       "isAppStore": false
     },
     {
-      "id": 750,
+      "id": 752,
       "name": "Bartender",
       "url": "https://www.macbartender.com",
       "description": "Organize or hide menu bar icons on your Mac",
@@ -8601,7 +8623,7 @@
       "isAppStore": false
     },
     {
-      "id": 751,
+      "id": 753,
       "name": "SaneBar",
       "url": "https://sanebar.com",
       "description": "Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and 7 automation triggers. Open-source alternative to Bartender",
@@ -8613,7 +8635,18 @@
       "repoUrl": "https://github.com/sane-apps/SaneBar"
     },
     {
-      "id": 752,
+      "id": 754,
+      "name": "Sharptooth",
+      "url": "https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814",
+      "description": "Effortlessly manage your Bluetooth devices right from the menu bar with custom hotkeys and smart automation",
+      "category": "Utilities",
+      "subcategory": "Menu Bar Tools",
+      "pricing": "paid",
+      "isOpenSource": false,
+      "isAppStore": false
+    },
+    {
+      "id": 755,
       "name": "BeardedSpice",
       "url": "https://github.com/beardedspice/beardedspice",
       "description": "Allows you to control web based media players (SoundCloud, YouTube, etc) and some native apps with the media keys on Mac keyboards",
@@ -8625,7 +8658,7 @@
       "repoUrl": "https://github.com/beardedspice/beardedspice"
     },
     {
-      "id": 753,
+      "id": 756,
       "name": "Boring Notch",
       "url": "https://theboring.name/",
       "description": "Turn your MacBook notch into a music and file control center",
@@ -8637,7 +8670,7 @@
       "repoUrl": "https://github.com/TheBoredTeam/boring.notch"
     },
     {
-      "id": 754,
+      "id": 757,
       "name": "Bye AppQuit",
       "url": "https://github.com/designsbymuzeer/Bye-Mac-App",
       "description": "A minimal menu bar app to quickly view and kill running processes",
@@ -8649,7 +8682,7 @@
       "repoUrl": "https://github.com/designsbymuzeer/Bye-Mac-App"
     },
     {
-      "id": 755,
+      "id": 758,
       "name": "CodexBar",
       "url": "https://codexbar.app",
       "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login",
@@ -8661,7 +8694,7 @@
       "repoUrl": "https://github.com/steipete/CodexBar"
     },
     {
-      "id": 756,
+      "id": 759,
       "name": "DayBar",
       "url": "https://wangchujiang.com/daybar/",
       "description": "An application that can display the local date and reminder events in the menu bar",
@@ -8673,7 +8706,7 @@
       "appStoreUrl": "https://apps.apple.com/app/daybar/6739052447"
     },
     {
-      "id": 757,
+      "id": 760,
       "name": "Droppy",
       "url": "https://iordv.github.io/Droppy/",
       "description": "Turns your screen's notch (or Dynamic Island) into a multifunctional tool",
@@ -8685,7 +8718,7 @@
       "repoUrl": "https://github.com/iordv/Droppy"
     },
     {
-      "id": 758,
+      "id": 761,
       "name": "Dato",
       "url": "https://sindresorhus.com/dato",
       "description": "A better menu bar clock with calendar, events, and time zones",
@@ -8697,7 +8730,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/dato/id1470584107"
     },
     {
-      "id": 759,
+      "id": 762,
       "name": "Dozer",
       "url": "https://github.com/Mortennn/Dozer",
       "description": "Hide MacOS menubar items",
@@ -8708,7 +8741,7 @@
       "isAppStore": false
     },
     {
-      "id": 760,
+      "id": 763,
       "name": "DynamicHorizon",
       "url": "https://dynamichorizon.app",
       "description": "Enhances the notch with seamless media controls, airdrop, notifications, system indicators and lock screen widgets",
@@ -8719,7 +8752,7 @@
       "isAppStore": false
     },
     {
-      "id": 761,
+      "id": 764,
       "name": "Eye Timer",
       "url": "https://adelmaer.com/eyetimer",
       "description": "Take Breaks to prevent Eye Strain timer for Mac",
@@ -8731,7 +8764,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/eye-timer/id1485856873"
     },
     {
-      "id": 762,
+      "id": 765,
       "name": "Fishing Funds",
       "url": "https://ff.1zilc.top",
       "description": "Display real-time trends of Chinese funds in the menubar",
@@ -8743,7 +8776,7 @@
       "repoUrl": "https://github.com/1zilc/fishing-funds"
     },
     {
-      "id": 763,
+      "id": 766,
       "name": "GoogleDriveSync",
       "url": "https://github.com/saihgupr/GoogleDriveSync",
       "description": "A menu bar app for seamless Google Drive syncing",
@@ -8755,7 +8788,7 @@
       "repoUrl": "https://github.com/saihgupr/GoogleDriveSync"
     },
     {
-      "id": 764,
+      "id": 767,
       "name": "Folder Peek",
       "url": "https://sindresorhus.com/folder-peek",
       "description": "Quickly access documents, files, folders, and apps from the menu bar",
@@ -8767,7 +8800,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id1615988943"
     },
     {
-      "id": 765,
+      "id": 768,
       "name": "Hidden",
       "url": "https://github.com/dwarvesf/hidden",
       "description": "A ultra-light MacOS utility that helps hide menu bar icons",
@@ -8779,7 +8812,7 @@
       "repoUrl": "https://github.com/dwarvesf/hidden"
     },
     {
-      "id": 766,
+      "id": 769,
       "name": "Hue in the Menu",
       "url": "https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384",
       "description": "Philips Hue light management in the menu bar with multi-room support",
@@ -8791,7 +8824,7 @@
       "appStoreUrl": "https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384"
     },
     {
-      "id": 767,
+      "id": 770,
       "name": "Ice",
       "url": "https://github.com/jordanbaird/Ice",
       "description": "A free, open source, alternative to Bartender. Helps to hide menu items and gives options for different layouts",
@@ -8802,7 +8835,7 @@
       "isAppStore": false
     },
     {
-      "id": 768,
+      "id": 771,
       "name": "Itsycal",
       "url": "https://www.mowglii.com/itsycal/",
       "description": "Tiny calendar for your Mac's menu bar",
@@ -8813,7 +8846,7 @@
       "isAppStore": false
     },
     {
-      "id": 769,
+      "id": 772,
       "name": "Itsyhome",
       "url": "https://itsyhome.app",
       "description": "Control your HomeKit and Home Assistant smart home from the menu bar",
@@ -8826,7 +8859,7 @@
       "appStoreUrl": "https://apps.apple.com/app/itsyhome/id6758070650"
     },
     {
-      "id": 770,
+      "id": 773,
       "name": "Itsytv",
       "url": "https://itsytv.app/",
       "description": "Control your Apple TV from the menu bar",
@@ -8837,7 +8870,7 @@
       "isAppStore": false
     },
     {
-      "id": 771,
+      "id": 774,
       "name": "KeyStats",
       "url": "https://keystats.vercel.app",
       "description": "Lightweight menu bar app that tracks daily keyboard keystrokes, mouse clicks, movement distance, and scroll distance",
@@ -8849,7 +8882,7 @@
       "repoUrl": "https://github.com/debugtheworldbot/keyStats"
     },
     {
-      "id": 772,
+      "id": 775,
       "name": "Later",
       "url": "https://getlater.app/",
       "description": "Save all your Mac apps for later with one click",
@@ -8861,7 +8894,7 @@
       "repoUrl": "https://github.com/alyssaxuu/later/"
     },
     {
-      "id": 773,
+      "id": 776,
       "name": "LuxShot",
       "url": "https://github.com/lukebuild/LuxShot",
       "description": "Native and privacy-first menu bar OCR tool",
@@ -8873,7 +8906,7 @@
       "repoUrl": "https://github.com/lukebuild/LuxShot"
     },
     {
-      "id": 774,
+      "id": 777,
       "name": "MeetingBar",
       "url": "https://meetingbar.onrender.com",
       "description": "Menu bar app for your calendar meetings",
@@ -8884,7 +8917,7 @@
       "isAppStore": false
     },
     {
-      "id": 775,
+      "id": 778,
       "name": "Menu Bar Calendar",
       "url": "https://sindresorhus.com/menu-bar-calendar",
       "description": "A monthly calendar right in your menu bar",
@@ -8896,7 +8929,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id1558360383"
     },
     {
-      "id": 776,
+      "id": 779,
       "name": "MenubarX",
       "url": "https://menubarx.app/",
       "description": "A powerful Mac menu bar browser, pin webpage like an App",
@@ -8908,7 +8941,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/menubarx/id1575588022"
     },
     {
-      "id": 777,
+      "id": 780,
       "name": "MenuScores",
       "url": "https://menuscores.vercel.app/",
       "description": "A menu bar app that delivers real-time sports news and scores",
@@ -8920,7 +8953,7 @@
       "repoUrl": "https://github.com/daniyalmaster693/MenuScores"
     },
     {
-      "id": 778,
+      "id": 781,
       "name": "MonitorControl",
       "url": "https://github.com/MonitorControl/MonitorControl/",
       "description": "Control your display's brightness & volume on your Mac as if it was a native Apple Display",
@@ -8931,7 +8964,7 @@
       "isAppStore": false
     },
     {
-      "id": 779,
+      "id": 782,
       "name": "NotchNook",
       "url": "https://lo.cafe/notchnook",
       "description": "Customizes your Mac's menu bar to seamlessly integrate with the notch design",
@@ -8942,7 +8975,7 @@
       "isAppStore": false
     },
     {
-      "id": 780,
+      "id": 783,
       "name": "One Thing",
       "url": "https://sindresorhus.com/one-thing",
       "description": "Put a single task or goal in your menu bar",
@@ -8954,7 +8987,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id1604176982"
     },
     {
-      "id": 781,
+      "id": 784,
       "name": "One Switch",
       "url": "https://fireball.studio/oneswitch",
       "description": "Mac menu bar app that adds various switches to the Mac's menu bar",
@@ -8965,7 +8998,7 @@
       "isAppStore": false
     },
     {
-      "id": 782,
+      "id": 785,
       "name": "OnlySwitch",
       "url": "https://github.com/jacklandrin/OnlySwitch",
       "description": "⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts",
@@ -8977,7 +9010,7 @@
       "repoUrl": "https://github.com/jacklandrin/OnlySwitch"
     },
     {
-      "id": 783,
+      "id": 786,
       "name": "Pandan",
       "url": "https://sindresorhus.com/pandan",
       "description": "Time awareness in your menu bar",
@@ -8989,7 +9022,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id1569600264"
     },
     {
-      "id": 784,
+      "id": 787,
       "name": "Peninsula",
       "url": "https://github.com/Celve/Peninsula",
       "description": "Dynamic Peninsula for macOS, focusing on window switching, notifications, and file storage",
@@ -9001,7 +9034,7 @@
       "repoUrl": "https://github.com/Celve/Peninsula"
     },
     {
-      "id": 785,
+      "id": 788,
       "name": "PowerMeister",
       "url": "https://naden.co",
       "description": "Conserve energy and improve Battery-Life on your MacBook",
@@ -9012,7 +9045,7 @@
       "isAppStore": false
     },
     {
-      "id": 786,
+      "id": 789,
       "name": "Quickgif",
       "url": "https://quickgif.app/",
       "description": "Quickly Find and Share GIFs",
@@ -9024,7 +9057,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id6744745027"
     },
     {
-      "id": 787,
+      "id": 790,
       "name": "Reminders MenuBar",
       "url": "https://github.com/DamascenoRafael/reminders-menubar/",
       "description": "Simple macOS menu bar app to view and interact with reminders",
@@ -9036,7 +9069,7 @@
       "repoUrl": "https://github.com/DamascenoRafael/reminders-menubar/"
     },
     {
-      "id": 788,
+      "id": 791,
       "name": "RewriteBar",
       "url": "https://rewritebar.com/",
       "description": "A macOS menu bar app that helps you write your text with the assistance of AI",
@@ -9047,7 +9080,7 @@
       "isAppStore": false
     },
     {
-      "id": 789,
+      "id": 792,
       "name": "Second Clock",
       "url": "https://sindresorhus.com/second-clock",
       "description": "Show a second clock for a different time zone in your menu bar",
@@ -9059,7 +9092,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id6450279539"
     },
     {
-      "id": 790,
+      "id": 793,
       "name": "Thaw",
       "url": "https://github.com/stonerl/Thaw",
       "description": "A powerful menu bar management tool for hiding and showing menu bar items",
@@ -9071,7 +9104,7 @@
       "repoUrl": "https://github.com/stonerl/Thaw"
     },
     {
-      "id": 791,
+      "id": 794,
       "name": "SketchyBar",
       "url": "https://github.com/FelixKratz/SketchyBar",
       "description": "A highly customizable macOS status bar replacement",
@@ -9083,7 +9116,7 @@
       "repoUrl": "https://github.com/FelixKratz/SketchyBar"
     },
     {
-      "id": 792,
+      "id": 795,
       "name": "Spaced",
       "url": "https://sindresorhus.com/spaced",
       "description": "Organize your menu bar items into groups",
@@ -9095,7 +9128,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id1666327168"
     },
     {
-      "id": 793,
+      "id": 796,
       "name": "Streaker",
       "url": "https://github.com/jamieweavis/streaker",
       "description": "GitHub contribution streak tracking menubar app",
@@ -9106,7 +9139,7 @@
       "isAppStore": false
     },
     {
-      "id": 794,
+      "id": 797,
       "name": "SwiftBar",
       "url": "https://github.com/swiftbar/SwiftBar/",
       "description": "Powerful macOS menu bar customization tool",
@@ -9117,7 +9150,7 @@
       "isAppStore": false
     },
     {
-      "id": 795,
+      "id": 798,
       "name": "TextSniper",
       "url": "https://textsniper.app/",
       "description": "Simple yet powerful OCR app in your Menu Bar. Instantly copy and paste text from anywhere",
@@ -9129,7 +9162,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id1528890965"
     },
     {
-      "id": 796,
+      "id": 799,
       "name": "Today",
       "url": "https://sindresorhus.com/today",
       "description": "View today’s schedule right from the menu bar. The perfect companion to the built-in Calendar app",
@@ -9141,7 +9174,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id6443714928"
     },
     {
-      "id": 797,
+      "id": 800,
       "name": "TomatoBar",
       "url": "https://github.com/ivoronin/TomatoBar",
       "description": "World's neatest Pomodoro timer for macOS menu bar",
@@ -9153,7 +9186,7 @@
       "repoUrl": "https://github.com/ivoronin/TomatoBar"
     },
     {
-      "id": 798,
+      "id": 801,
       "name": "UTC Time",
       "url": "https://sindresorhus.com/utc-time",
       "description": "Show the time in UTC in the menu bar or a widget",
@@ -9165,7 +9198,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id1538245904"
     },
     {
-      "id": 799,
+      "id": 802,
       "name": "Vanilla",
       "url": "https://matthewpalmer.net/vanilla/",
       "description": "Hide menu bar icons on your Mac",
@@ -9176,7 +9209,7 @@
       "isAppStore": false
     },
     {
-      "id": 800,
+      "id": 803,
       "name": "Week Number",
       "url": "https://sindresorhus.com/week-number",
       "description": "The current week number in your menu bar",
@@ -9188,7 +9221,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id6502579523"
     },
     {
-      "id": 801,
+      "id": 804,
       "name": "Work Hours",
       "url": "https://github.com/niteoweb/work-hours-mac",
       "description": "Simple app that tracks your work hours from the menu bar",
@@ -9199,7 +9232,7 @@
       "isAppStore": false
     },
     {
-      "id": 802,
+      "id": 805,
       "name": "Xbar",
       "url": "https://xbarapp.com/",
       "description": "Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)",
@@ -9210,7 +9243,7 @@
       "isAppStore": false
     },
     {
-      "id": 803,
+      "id": 806,
       "name": "FunKey－Mechanical Keyboard App",
       "url": "https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677",
       "description": "FunKey is a Mac app that offers the ability to add artificial mechanical keyboard sounds to your MacBook",
@@ -9222,7 +9255,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677"
     },
     {
-      "id": 804,
+      "id": 807,
       "name": "BetterZip",
       "url": "https://macitbetter.com/",
       "description": "Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR",
@@ -9233,7 +9266,7 @@
       "isAppStore": false
     },
     {
-      "id": 805,
+      "id": 808,
       "name": "eZip",
       "url": "http://ezip.awehunt.com",
       "description": "An easy to use, feature-rich archiver for macOS. Supports popular formats such as RAR, ZIP, 7Z, BZ2, GZ etc. Works great with Mojave dark-mode and QuickLook",
@@ -9244,7 +9277,7 @@
       "isAppStore": false
     },
     {
-      "id": 806,
+      "id": 809,
       "name": "Fileside",
       "url": "https://www.fileside.app",
       "description": "A modern, tiling file manager with unlimited panes",
@@ -9255,7 +9288,7 @@
       "isAppStore": false
     },
     {
-      "id": 807,
+      "id": 810,
       "name": "Folders File Manager",
       "url": "https://foldersapp.dev",
       "description": "A file manager with an expandable folder tree, similar to that of Windows Explorer",
@@ -9266,7 +9299,7 @@
       "isAppStore": false
     },
     {
-      "id": 808,
+      "id": 811,
       "name": "Hazel",
       "url": "https://www.noodlesoft.com",
       "description": "Automated file organization for your Mac. Responsibly and beautifully designed",
@@ -9277,7 +9310,7 @@
       "isAppStore": false
     },
     {
-      "id": 809,
+      "id": 812,
       "name": "Keka",
       "url": "https://www.keka.io",
       "description": "File archiver for macOS. Compression: 7Z, ZIP, TAR, GZIP, BZIP2, XZ LZIP, DMG, ISO. Extraction: 7Z, ZIP, RAR, TAR, GZIP, BZIP2, XZ, LZIP, DMG, ISO, LZMA, EXE, CAB, WIM, PAX, JAR, APK, APPX, CPGZ, CPIO",
@@ -9289,7 +9322,7 @@
       "appStoreUrl": "https://itunes.apple.com/app/keka/id470158793"
     },
     {
-      "id": 810,
+      "id": 813,
       "name": "muCommander",
       "url": "http://www.mucommander.com",
       "description": "Lightweight file manager with a dual-pane interface",
@@ -9301,7 +9334,7 @@
       "repoUrl": "https://github.com/mucommander/mucommander"
     },
     {
-      "id": 811,
+      "id": 814,
       "name": "Modal File Manager",
       "url": "https://github.com/raguay/ModalFileManager/",
       "description": "A lightweight, minimal dual-pane file manager with Vim style hotkeys. It can be customized with themes and extensions that are downloaded from GitHub using a built in interface",
@@ -9313,7 +9346,7 @@
       "repoUrl": "https://GitHub.com/raguay/ModalFileManager"
     },
     {
-      "id": 812,
+      "id": 815,
       "name": "Oka Unarchiver",
       "url": "https://okaapps.com/product/1441507725",
       "description": "Support RAR format, batch decompression of archives, password-protected archives, click one button to extract & archive",
@@ -9325,7 +9358,7 @@
       "appStoreUrl": "macappstore://itunes.apple.com/app/id1441507725?pt=119209922&l=en&mt=12&ct=github"
     },
     {
-      "id": 813,
+      "id": 816,
       "name": "PDF Archiver",
       "url": "https://github.com/JulianKahnert/PDF-Archiver",
       "description": "Nice tool for tagging and archiving tasks",
@@ -9338,7 +9371,7 @@
       "appStoreUrl": "https://itunes.apple.com/app/pdf-archivar/id1352719750"
     },
     {
-      "id": 814,
+      "id": 817,
       "name": "Rapidmg",
       "url": "https://rapidmg.branchseer.com/",
       "description": "1-Click extracting apps from DMG images to the \"Applications\" folder",
@@ -9350,7 +9383,7 @@
       "appStoreUrl": "https://apps.apple.com/app/rapidmg/id6451349778"
     },
     {
-      "id": 815,
+      "id": 818,
       "name": "The Unarchiver",
       "url": "https://theunarchiver.com/",
       "description": "Unarchive many different kinds of archive files",
@@ -9362,7 +9395,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/the-unarchiver/id425424353"
     },
     {
-      "id": 816,
+      "id": 819,
       "name": "Unarchive One",
       "url": "https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject",
       "description": "Quickly decompress multiple different types of compressed files/compressed files to various scene compression formats",
@@ -9374,7 +9407,7 @@
       "appStoreUrl": "https://apps.apple.com/app/apple-store/id1127253508?pt=444218&ct=GitHub&mt=8"
     },
     {
-      "id": 817,
+      "id": 820,
       "name": "Marta",
       "url": "https://marta.sh",
       "description": "File Manager for macOS written entirely in Swift",
@@ -9385,7 +9418,7 @@
       "isAppStore": false
     },
     {
-      "id": 818,
+      "id": 821,
       "name": "AirServer",
       "url": "http://www.airserver.com/Download",
       "description": "Most advanced screen mirroring software receiver for Mac, PC and Xbox One",
@@ -9396,7 +9429,7 @@
       "isAppStore": false
     },
     {
-      "id": 819,
+      "id": 822,
       "name": "CleanMyMac",
       "url": "https://macpaw.com/cleanmymac",
       "description": "Delete megatons of junk, malware, and make your Mac faster & more organized",
@@ -9408,7 +9441,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/cleanmymac/id1339170533?mt=12"
     },
     {
-      "id": 820,
+      "id": 823,
       "name": "DNS Optimizer",
       "url": "https://www.appecosys.com/apps/dns-optimizer/",
       "description": "A DNS changer and performance‑benchmarking tool for Apple devices (macOS & iOS)",
@@ -9420,7 +9453,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/dns-optimizer/id6741016224?platform=mac"
     },
     {
-      "id": 821,
+      "id": 824,
       "name": "DevKnife",
       "url": "https://devknife.app",
       "description": "A native Mac app for dozens of daily dev tasks, from network scans to JSON formatting",
@@ -9431,7 +9464,7 @@
       "isAppStore": false
     },
     {
-      "id": 822,
+      "id": 825,
       "name": "DevToysMac",
       "url": "https://github.com/ObuchiYuki/DevToysMac",
       "description": "Offline toolbox that helps developers in daily tasks",
@@ -9442,7 +9475,7 @@
       "isAppStore": false
     },
     {
-      "id": 823,
+      "id": 826,
       "name": "DevUtils.app",
       "url": "https://devutils.com/",
       "description": "All-in-one Toolbox for Developers. Format/Validate JSON, encode/decode Base64, convert timestamps, debug JWT… with just one click! Native macOS app and works offline",
@@ -9455,7 +9488,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/devutils-app/id1533756032"
     },
     {
-      "id": 824,
+      "id": 827,
       "name": "Deskmark",
       "url": "https://apps.apple.com/app/Deskmark/6755948110",
       "description": "Add watermarks to the desktop, ideal for recording videos",
@@ -9467,7 +9500,7 @@
       "appStoreUrl": "https://apps.apple.com/app/Deskmark/6755948110"
     },
     {
-      "id": 825,
+      "id": 828,
       "name": "Etcher",
       "url": "https://www.balena.io/etcher/",
       "description": "Flash OS images to SD cards & USB drives, safely and easily",
@@ -9479,7 +9512,7 @@
       "repoUrl": "https://github.com/balena-io/etcher"
     },
     {
-      "id": 826,
+      "id": 829,
       "name": "Equinox",
       "url": "https://github.com/rlxone/Equinox",
       "description": "Create dynamic wallpapers for macOS",
@@ -9491,7 +9524,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203"
     },
     {
-      "id": 827,
+      "id": 830,
       "name": "HTTrack",
       "url": "http://www.httrack.com",
       "description": "Useful tool for downloading a whole website and offline browsing",
@@ -9502,7 +9535,7 @@
       "isAppStore": false
     },
     {
-      "id": 828,
+      "id": 831,
       "name": "Latest",
       "url": "https://github.com/mangerlahn/Latest",
       "description": "A tiny app that checks if all your apps from any source are up to date",
@@ -9513,7 +9546,7 @@
       "isAppStore": false
     },
     {
-      "id": 829,
+      "id": 832,
       "name": "Lungo",
       "url": "https://sindresorhus.com/lungo",
       "description": "Prevent your Mac from going to sleep",
@@ -9525,7 +9558,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/lungo/id1263070803"
     },
     {
-      "id": 830,
+      "id": 833,
       "name": "LaunchNext",
       "url": "https://github.com/RoversX/LaunchNext",
       "description": "Classic Launchpad experience, relive old macOS",
@@ -9537,7 +9570,7 @@
       "repoUrl": "https://github.com/RoversX/LaunchNext"
     },
     {
-      "id": 831,
+      "id": 834,
       "name": "lo-rain",
       "url": "https://lo.cafe/lo-rain",
       "description": "Create a customizable rain over your desktop and apps, with splash over the dock",
@@ -9548,7 +9581,7 @@
       "isAppStore": false
     },
     {
-      "id": 832,
+      "id": 835,
       "name": "Mac Cache Cleaner",
       "url": "https://github.com/kaunteya/MacCacheCleaner",
       "description": "Cache cleaner for Mac",
@@ -9560,7 +9593,7 @@
       "repoUrl": "https://github.com/kaunteya/MacCacheCleaner"
     },
     {
-      "id": 833,
+      "id": 836,
       "name": "Memo",
       "url": "http://memo-app.net/",
       "description": "Simple and elegant app. Unlock memos even more quickly using Touch ID",
@@ -9572,7 +9605,7 @@
       "appStoreUrl": "https://itunes.apple.com/app/id1212409035"
     },
     {
-      "id": 834,
+      "id": 837,
       "name": "Numi",
       "url": "http://numi.io/",
       "description": "Beautiful calculator app for Mac",
@@ -9583,7 +9616,7 @@
       "isAppStore": false
     },
     {
-      "id": 835,
+      "id": 838,
       "name": "NextDNS",
       "url": "https://nextdns.io/",
       "description": "The new firewall for the modern Internet",
@@ -9595,7 +9628,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/nextdns/id1464122853"
     },
     {
-      "id": 836,
+      "id": 839,
       "name": "Plash",
       "url": "https://sindresorhus.com/plash",
       "description": "Make any website your desktop wallpaper",
@@ -9608,7 +9641,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/plash/id1494023538"
     },
     {
-      "id": 837,
+      "id": 840,
       "name": "rem",
       "url": "https://github.com/jasonjmcghee/rem",
       "description": "An open source approach to locally record and enable searching everything you view on your Mac",
@@ -9620,7 +9653,7 @@
       "repoUrl": "https://github.com/jasonjmcghee/rem"
     },
     {
-      "id": 838,
+      "id": 841,
       "name": "Rewind",
       "url": "https://www.rewind.ai/",
       "description": "Rewind is an application designed for macOS that records and indexes all user activities on the Mac, including screen content and audio. Users can rewind and search past activities, essentially adding a \"rewind button\" to the Mac",
@@ -9631,7 +9664,7 @@
       "isAppStore": false
     },
     {
-      "id": 839,
+      "id": 842,
       "name": "SlowQuitApps",
       "url": "https://github.com/dteoh/SlowQuitApps",
       "description": "An OS X app that adds a global delay of 1 second to the Cmd-Q shortcut",
@@ -9642,7 +9675,7 @@
       "isAppStore": false
     },
     {
-      "id": 840,
+      "id": 843,
       "name": "Speediness",
       "url": "https://sindresorhus.com/speediness",
       "description": "Check your internet speed",
@@ -9654,7 +9687,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id1596706466"
     },
     {
-      "id": 841,
+      "id": 844,
       "name": "Ultra TabSaver",
       "url": "https://github.com/Swift-open-source/UltraTabSaver",
       "description": "The Open Source Tab Manager for Safari",
@@ -9665,7 +9698,7 @@
       "isAppStore": false
     },
     {
-      "id": 842,
+      "id": 845,
       "name": "Upscayl",
       "url": "https://github.com/upscayl/upscayl",
       "description": "Free and open-source AI image upscaling tool",
@@ -9677,7 +9710,7 @@
       "repoUrl": "https://github.com/upscayl/upscayl"
     },
     {
-      "id": 843,
+      "id": 846,
       "name": "Vidwall",
       "url": "https://apps.apple.com/app/Vidwall/6747587746",
       "description": "Easily import MP4/MOV videos as system wallpapers and lock screen animations",
@@ -9689,7 +9722,7 @@
       "repoUrl": "https://github.com/jaywcjlove/vidwall"
     },
     {
-      "id": 844,
+      "id": 847,
       "name": "CapsLockNoDelay",
       "url": "https://github.com/gkpln3/CapsLockNoDelay",
       "description": "Removes caps-lock key activation delay for fast typers",
@@ -9700,7 +9733,7 @@
       "isAppStore": false
     },
     {
-      "id": 845,
+      "id": 848,
       "name": "Seodisias",
       "url": "https://seodisias.com",
       "description": "Seodisias is a free SEO crawler and website analyzer. It crawls your website, detects technical SEO issues, and provides actionable insights to help improve your search engine rankings ](https://seodisias.com)",
@@ -9711,7 +9744,7 @@
       "isAppStore": false
     },
     {
-      "id": 846,
+      "id": 849,
       "name": "2Do",
       "url": "http://www.2doapp.com/",
       "description": "Nice todo app",
@@ -9722,7 +9755,7 @@
       "isAppStore": false
     },
     {
-      "id": 847,
+      "id": 850,
       "name": "Day-O 2",
       "url": "http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock",
       "description": "Menu bar clock replacement with built-in calendar",
@@ -9733,7 +9766,7 @@
       "isAppStore": false
     },
     {
-      "id": 848,
+      "id": 851,
       "name": "Fantastical",
       "url": "https://flexibits.com/fantastical",
       "description": "The calendar app you won't be able to live without",
@@ -9744,7 +9777,7 @@
       "isAppStore": false
     },
     {
-      "id": 849,
+      "id": 852,
       "name": "Focus",
       "url": "https://meaningful-things.com/focus",
       "description": "Beautiful pomodoro-based time manager",
@@ -9756,7 +9789,7 @@
       "appStoreUrl": "https://itunes.apple.com/us/app/focus-productivity-timer/id777233759?mt=12"
     },
     {
-      "id": 850,
+      "id": 853,
       "name": "Focused Work: Focus Timer",
       "url": "https://focusedwork.app",
       "description": "A simple, flexible Focus Timer",
@@ -9768,7 +9801,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/focused-work-focus-timer/id1523968394?uo=4"
     },
     {
-      "id": 851,
+      "id": 854,
       "name": "Lunatask",
       "url": "https://lunatask.app",
       "description": "An all-in-one encrypted to-do list, habit and mood tracker, journaling and notes app",
@@ -9780,7 +9813,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/lunatask-a-better-to-do-list/id1583719331?mt=12"
     },
     {
-      "id": 852,
+      "id": 855,
       "name": "Microsoft To-Do",
       "url": "https://todo.microsoft.com/",
       "description": "Microsoft's successor to Wunderlist",
@@ -9792,7 +9825,7 @@
       "appStoreUrl": "https://apps.apple.com/de/app/microsoft-to-do/id1274495053?mt=12"
     },
     {
-      "id": 853,
+      "id": 856,
       "name": "Nozbe",
       "url": "https://nozbe.com",
       "description": "Powerful GTD app for individuals and teams, with support for every Apple device (Mac, iPhone, iPad, Watch)",
@@ -9804,7 +9837,7 @@
       "appStoreUrl": "https://itunes.apple.com/pl/app/nozbe-tasks-projects-team/id508957583?mt=12"
     },
     {
-      "id": 854,
+      "id": 857,
       "name": "OmniFocus",
       "url": "https://www.omnigroup.com/omnifocus/",
       "description": "Nice GTD app, made by OmniGroups",
@@ -9815,7 +9848,7 @@
       "isAppStore": false
     },
     {
-      "id": 855,
+      "id": 858,
       "name": "One Task",
       "url": "https://sindresorhus.com/one-task",
       "description": "Conquer one task at a time",
@@ -9827,7 +9860,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id6465745322"
     },
     {
-      "id": 856,
+      "id": 859,
       "name": "Super Productivity",
       "url": "https://super-productivity.com",
       "description": "Cross-platform todo list app with integrated Timeboxing and time tracking capabilities",
@@ -9840,7 +9873,7 @@
       "appStoreUrl": "https://apps.apple.com/cn/app/super-productivity/id1482572463?mt=12"
     },
     {
-      "id": 857,
+      "id": 860,
       "name": "Taskade",
       "url": "https://www.taskade.com",
       "description": "Real-time collaborative editor for teams",
@@ -9851,7 +9884,7 @@
       "isAppStore": false
     },
     {
-      "id": 858,
+      "id": 861,
       "name": "TaskPaper",
       "url": "https://www.taskpaper.com/",
       "description": "Plain text to-do lists",
@@ -9862,7 +9895,7 @@
       "isAppStore": false
     },
     {
-      "id": 859,
+      "id": 862,
       "name": "Things",
       "url": "https://culturedcode.com/things/",
       "description": "Delightful and easy to use task manager. (**Award-winning App**)",
@@ -9873,7 +9906,7 @@
       "isAppStore": false
     },
     {
-      "id": 860,
+      "id": 863,
       "name": "Todoist",
       "url": "https://todoist.com/mac",
       "description": "Cross-platform todo list app",
@@ -9885,7 +9918,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/todoist-to-do-list-tasks/id585829637?mt=12"
     },
     {
-      "id": 861,
+      "id": 864,
       "name": "Tomato 2",
       "url": "https://tomato2.app",
       "description": "Beautiful and simple Pomodoro timer",
@@ -9897,7 +9930,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/tomato-2-pomodoro-timer/id1494210770?mt=12"
     },
     {
-      "id": 862,
+      "id": 865,
       "name": "TickTick",
       "url": "https://ticktick.com/",
       "description": "Simple and effective to-do list and task manager that helps you organize all aspects of life",
@@ -9909,7 +9942,7 @@
       "appStoreUrl": "https://itunes.apple.com/app/id966085870"
     },
     {
-      "id": 863,
+      "id": 866,
       "name": "1440 Minutes Left Today",
       "url": "https://1440app.com/",
       "description": "Keep a track of how many minutes you have left until the day is over, right in your menu bar",
@@ -9921,7 +9954,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/1440/id1483764819"
     },
     {
-      "id": 864,
+      "id": 867,
       "name": "ActivityWatch",
       "url": "https://activitywatch.net/",
       "description": "Cross-platform, extensible, and privacy-focused time-tracker",
@@ -9933,7 +9966,7 @@
       "repoUrl": "https://github.com/ActivityWatch/activitywatch"
     },
     {
-      "id": 865,
+      "id": 868,
       "name": "Alfred",
       "url": "https://www.alfredapp.com/",
       "description": "Award-winning app which boosts efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac",
@@ -9944,7 +9977,7 @@
       "isAppStore": false
     },
     {
-      "id": 866,
+      "id": 869,
       "name": "Atomic",
       "url": "https://indiegoodies.com/atomic",
       "description": "A habit tracker app to build good habits, break bad ones, and stay on top of your daily routines",
@@ -9955,7 +9988,7 @@
       "isAppStore": false
     },
     {
-      "id": 867,
+      "id": 870,
       "name": "Better Launchpad",
       "url": "https://github.com/rewhex/better-launchpad",
       "description": "A smarter, free, and highly customizable application launcher for macOS with fast search",
@@ -9966,7 +9999,7 @@
       "isAppStore": false
     },
     {
-      "id": 868,
+      "id": 871,
       "name": "BetterMouse",
       "url": "https://better-mouse.com",
       "description": "Smooth scroll, cursor acceleration prohibition, and powerful button/gesture remapping in one utility for 3rd-party mice. Aims for replacing those bulky and intrusive official drivers",
@@ -9977,7 +10010,7 @@
       "isAppStore": false
     },
     {
-      "id": 869,
+      "id": 872,
       "name": "BetterTouchTool",
       "url": "https://folivora.ai/",
       "description": "Great, feature-packed app that allows you to configure many gestures for your Magic Mouse, Macbook Trackpad, Magic Trackpad and also Mouse Gestures for normal mice",
@@ -9988,7 +10021,7 @@
       "isAppStore": false
     },
     {
-      "id": 870,
+      "id": 873,
       "name": "Cerebro",
       "url": "https://cerebroapp.com/",
       "description": "Open-source productivity booster with a brain",
@@ -10000,7 +10033,7 @@
       "repoUrl": "https://github.com/cerebroapp/cerebro"
     },
     {
-      "id": 871,
+      "id": 874,
       "name": "Choosy",
       "url": "https://www.choosyosx.com",
       "description": "UI, URL API and a browser extension set for managing rules where and how to open links",
@@ -10011,7 +10044,7 @@
       "isAppStore": false
     },
     {
-      "id": 872,
+      "id": 875,
       "name": "CursorSense",
       "url": "https://www.plentycom.jp/en/cursorsense/index.html",
       "description": "Mouse & trackpad driver that lets you tweak the acceleration curve and more",
@@ -10022,7 +10055,7 @@
       "isAppStore": false
     },
     {
-      "id": 873,
+      "id": 876,
       "name": "Day Progress",
       "url": "https://sindresorhus.com/day-progress",
       "description": "Time remaining today in your menu bar",
@@ -10034,7 +10067,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id6450280202"
     },
     {
-      "id": 874,
+      "id": 877,
       "name": "Dropzone",
       "url": "https://aptonic.com",
       "description": "Create a popup grid of customizable actions. Scriptable in Ruby & Python",
@@ -10045,7 +10078,7 @@
       "isAppStore": false
     },
     {
-      "id": 875,
+      "id": 878,
       "name": "escrcpy",
       "url": "https://github.com/viarotel-org/escrcpy",
       "description": "📱 Graphical Scrcpy to display and control Android devices, powered by Electron",
@@ -10057,7 +10090,7 @@
       "repoUrl": "https://github.com/viarotel-org/escrcpy"
     },
     {
-      "id": 876,
+      "id": 879,
       "name": "Focalboard",
       "url": "https://www.focalboard.com/",
       "description": "Open source, self-hosted alternative to Trello, Notion, and Asana",
@@ -10069,7 +10102,7 @@
       "repoUrl": "https://github.com/mattermost/focalboard"
     },
     {
-      "id": 877,
+      "id": 880,
       "name": "Focus Firewall",
       "url": "https://focusfirewall.com",
       "description": "A minimalist focus app to block social media and other distractions during work. )",
@@ -10081,7 +10114,7 @@
       "appStoreUrl": "[https://apps.apple.com/app/apple-store/id6476942786?pt=124015613&ct=awesome-mac&mt=8](https://apps.apple.com/app/apple-store/id6476942786?pt=124015613&ct=awesome-mac&mt=8"
     },
     {
-      "id": 878,
+      "id": 881,
       "name": "FnKeyboard",
       "url": "https://github.com/kotique123/FnKeyboard",
       "description": "A lightweight macOS menu-bar utility that puts the Mac function keys (F1–F12) at your fingertips",
@@ -10093,7 +10126,7 @@
       "repoUrl": "https://github.com/kotique123/FnKeyboard"
     },
     {
-      "id": 879,
+      "id": 882,
       "name": "Freeter",
       "url": "https://freeter.io/",
       "description": "Open-source app that allows you to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them",
@@ -10105,7 +10138,7 @@
       "repoUrl": "https://github.com/FreeterApp/Freeter"
     },
     {
-      "id": 880,
+      "id": 883,
       "name": "Hammerspoon",
       "url": "http://www.hammerspoon.org/",
       "description": "Tool for powerful OSX automation with the Lua scripting engine",
@@ -10117,7 +10150,7 @@
       "repoUrl": "https://github.com/Hammerspoon/hammerspoon"
     },
     {
-      "id": 881,
+      "id": 884,
       "name": "HapticKey",
       "url": "https://github.com/niw/HapticKey/releases",
       "description": "A simple utility application for MacBook with Touch Bar that triggers a haptic feedback when tapping Touch Bar",
@@ -10129,7 +10162,7 @@
       "repoUrl": "https://github.com/niw/HapticKey"
     },
     {
-      "id": 882,
+      "id": 885,
       "name": "HazeOver",
       "url": "https://hazeover.com",
       "description": "App that dims your background app windows so you can focus more on your main task!",
@@ -10141,7 +10174,7 @@
       "appStoreUrl": "https://apps.apple.com/ph/app/hazeover-distraction-dimmer/id430798174?mt=12"
     },
     {
-      "id": 883,
+      "id": 886,
       "name": "Hook for Mac",
       "url": "https://hookproductivity.com/",
       "description": "Hook files together fast and easily, enabling you to find anything related with a simple keyboard shortcut",
@@ -10152,7 +10185,7 @@
       "isAppStore": false
     },
     {
-      "id": 884,
+      "id": 887,
       "name": "Hungrymark",
       "url": "https://zhengying.github.io/hungrymark",
       "description": "Useful app to bookmark your files, folders, and webs, quick access your bookmarks through menu bar",
@@ -10164,7 +10197,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/hungrymark/id1482778901?l=en&mt=12"
     },
     {
-      "id": 885,
+      "id": 888,
       "name": "Hyperkey",
       "url": "https://hyperkey.app/",
       "description": "Lets you convert the caps lock key or any modifier key to the hyper key, all four modifiers combined: ⌃⌥⌘⇧",
@@ -10175,7 +10208,7 @@
       "isAppStore": false
     },
     {
-      "id": 886,
+      "id": 889,
       "name": "iCMD",
       "url": "https://icmd.app",
       "description": "Fuzzy menubar search and vim/easymotion emulation which works globally for every native MacOS app",
@@ -10186,7 +10219,7 @@
       "isAppStore": false
     },
     {
-      "id": 887,
+      "id": 890,
       "name": "Journey Navigation",
       "url": "https://gowithjourney.com",
       "description": "A powerful route planning app with weather along your route, traffic alerts, turn by turn directions, and more",
@@ -10198,7 +10231,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/journey-navigation/id1662059644"
     },
     {
-      "id": 888,
+      "id": 891,
       "name": "Karabiner",
       "url": "https://pqrs.org/osx/karabiner/",
       "description": "Powerful and stable keyboard customizer for OS X",
@@ -10209,7 +10242,7 @@
       "isAppStore": false
     },
     {
-      "id": 889,
+      "id": 892,
       "name": "Keyboard Cowboy",
       "url": "https://github.com/zenangst/KeyboardCowboy",
       "description": "The missing keyboard shortcut utility for macOS",
@@ -10220,7 +10253,7 @@
       "isAppStore": false
     },
     {
-      "id": 890,
+      "id": 893,
       "name": "Keyboard Maestro",
       "url": "http://www.keyboardmaestro.com",
       "description": "Automate routine actions based on triggers from keyboard, menu, location, added devices, and more",
@@ -10231,7 +10264,7 @@
       "isAppStore": false
     },
     {
-      "id": 891,
+      "id": 894,
       "name": "Keytty",
       "url": "http://keytty.com",
       "description": "App to keep your hands on the keyboard. Move, click, scroll, drag and more with a few strokes",
@@ -10242,7 +10275,7 @@
       "isAppStore": false
     },
     {
-      "id": 892,
+      "id": 895,
       "name": "Launchy",
       "url": "https://apple.co/3PLI2AH",
       "description": "An app launcher and switcher that utilizes a radial menu",
@@ -10253,7 +10286,7 @@
       "isAppStore": false
     },
     {
-      "id": 893,
+      "id": 896,
       "name": "Lazy",
       "url": "https://www.lazy-app.com/",
       "description": "Keyboard-driven commands to manage your surroundings directly from your mac",
@@ -10264,7 +10297,7 @@
       "isAppStore": false
     },
     {
-      "id": 894,
+      "id": 897,
       "name": "Linear Mouse",
       "url": "https://linearmouse.app/",
       "description": "Full control of mouse. Change the speed, scrolling direction, pointer type and much more",
@@ -10276,7 +10309,7 @@
       "repoUrl": "https://github.com/linearmouse/linearmouse"
     },
     {
-      "id": 895,
+      "id": 898,
       "name": "Macaify",
       "url": "https://macaify.com",
       "description": "Fast use of ChatGPT, lightweight, clean, keyboard-first",
@@ -10287,7 +10320,7 @@
       "isAppStore": false
     },
     {
-      "id": 896,
+      "id": 899,
       "name": "Mac Mouse Fix",
       "url": "https://www.mousefix.org/",
       "description": "A simple way to make your mouse better",
@@ -10299,7 +10332,7 @@
       "repoUrl": "https://github.com/noah-nuebling/mac-mouse-fix"
     },
     {
-      "id": 897,
+      "id": 900,
       "name": "Memo Widget",
       "url": "https://sindresorhus.com/memo-widget",
       "description": "Sticky notes on your desktop",
@@ -10311,7 +10344,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id6465682248"
     },
     {
-      "id": 898,
+      "id": 901,
       "name": "MindMac",
       "url": "https://mindmac.app/",
       "description": "Feature-rich & privacy-first native ChatGPT app to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place",
@@ -10322,7 +10355,7 @@
       "isAppStore": false
     },
     {
-      "id": 899,
+      "id": 902,
       "name": "Mos",
       "url": "https://mos.caldis.me/",
       "description": "Simple tool can offer the smooth scrolling and reverse the mouse scrolling direction on your Mac",
@@ -10334,7 +10367,7 @@
       "repoUrl": "https://github.com/Caldis/Mos"
     },
     {
-      "id": 900,
+      "id": 903,
       "name": "MacPacker",
       "url": "https://macpacker.app",
       "description": "Archive manager that supports previewing and extracting archive files",
@@ -10346,7 +10379,7 @@
       "repoUrl": "https://github.com/sarensw/macpacker"
     },
     {
-      "id": 901,
+      "id": 904,
       "name": "Magic Switch",
       "url": "https://magic-switch.com/",
       "description": "Switch your Magic Keyboard, Magic Mouse and Magic Trackpad between multiple Macs with different Apple IDs",
@@ -10357,7 +10390,7 @@
       "isAppStore": false
     },
     {
-      "id": 902,
+      "id": 905,
       "name": "nnScreenshots",
       "url": "https://www.nearnorthsoftware.com/software/screenshots.php",
       "description": "A super easy way to keep a visual record of your productivity to make it easier to fill out timesheets or just to help you review the day. Built in timesheet editor",
@@ -10368,7 +10401,7 @@
       "isAppStore": false
     },
     {
-      "id": 903,
+      "id": 906,
       "name": "OmniPlan",
       "url": "https://www.omnigroup.com/omniplan/",
       "description": "The best way to visualize, maintain, and simplify your projects. Project Management made easy",
@@ -10379,7 +10412,7 @@
       "isAppStore": false
     },
     {
-      "id": 904,
+      "id": 907,
       "name": "OpenIn",
       "url": "https://loshadki.app/openin4/",
       "description": "Take control of installed apps on your Mac",
@@ -10391,7 +10424,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331?mt=12"
     },
     {
-      "id": 905,
+      "id": 908,
       "name": "PaletteBrain",
       "url": "https://palettebrain.com",
       "description": "Access the power of ChatGPT across all your Mac applications with the press of a shortcut",
@@ -10402,7 +10435,7 @@
       "isAppStore": false
     },
     {
-      "id": 906,
+      "id": 909,
       "name": "Pie Menu",
       "url": "https://www.pie-menu.com",
       "description": "– Control your tools with a radial menu customized for your active app",
@@ -10413,7 +10446,7 @@
       "isAppStore": false
     },
     {
-      "id": 907,
+      "id": 910,
       "name": "Perplexity",
       "url": "https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650",
       "description": "Search and discovery with AI",
@@ -10424,7 +10457,7 @@
       "isAppStore": false
     },
     {
-      "id": 908,
+      "id": 911,
       "name": "Pomodoro Cycle",
       "url": "https://github.com/jet8a/pomodoro-cycle-app",
       "description": "Pomodoro tracker",
@@ -10435,7 +10468,7 @@
       "isAppStore": false
     },
     {
-      "id": 909,
+      "id": 912,
       "name": "Qbserve",
       "url": "https://qotoqot.com/qbserve/",
       "description": "Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback",
@@ -10446,7 +10479,7 @@
       "isAppStore": false
     },
     {
-      "id": 910,
+      "id": 913,
       "name": "Raycast",
       "url": "https://raycast.com?via=ae02",
       "description": "Raycast lets you control your tools and apps with shortcuts, download extensions from the store, and use AI models like ChatGPT, DeepSeek, Gemini, Claude, etc. You can also create snippets and use Raycast Notes to maximize your productivity",
@@ -10457,7 +10490,7 @@
       "isAppStore": false
     },
     {
-      "id": 911,
+      "id": 914,
       "name": "RescueTime",
       "url": "https://www.rescuetime.com/",
       "description": "Personal analytics service that shows you how you spend your time and provides tools to help you be more productive",
@@ -10468,7 +10501,7 @@
       "isAppStore": false
     },
     {
-      "id": 912,
+      "id": 915,
       "name": "SuperCorners",
       "url": "https://supercorners.vercel.app/",
       "description": "Make your screen corners more powerful — turn Hot Corners into efficient workflow triggers",
@@ -10480,7 +10513,7 @@
       "repoUrl": "https://github.com/daniyalmaster693/SuperCorners"
     },
     {
-      "id": 913,
+      "id": 916,
       "name": "Rize",
       "url": "https://rize.io/",
       "description": "A.I. powered time tracker that automatically improves your focus and helps you build better work habits",
@@ -10491,7 +10524,7 @@
       "isAppStore": false
     },
     {
-      "id": 914,
+      "id": 917,
       "name": "RightMenu Master",
       "url": "https://wangchujiang.com/rightmenu-master/",
       "description": "An excellent Finder right-click menu enhancement tool to make your right-click menu more powerful",
@@ -10503,7 +10536,7 @@
       "appStoreUrl": "https://apps.apple.com/app/rightmenu-master/6737160756"
     },
     {
-      "id": 915,
+      "id": 918,
       "name": "Selectric",
       "url": "https://selectric.io/",
       "description": "Private personal search engine for your emails, documents and messages. Search across Gmail, Outlook, Drive, Dropbox, Teams, Slack and more applications right from your computer",
@@ -10514,7 +10547,7 @@
       "isAppStore": false
     },
     {
-      "id": 916,
+      "id": 919,
       "name": "SensibleSideButtons",
       "url": "http://sensible-side-buttons.archagon.net",
       "description": "Use the side buttons on your mouse to move forward and backward in many apps, like in Windows",
@@ -10526,7 +10559,7 @@
       "repoUrl": "https://github.com/archagon/sensible-side-buttons"
     },
     {
-      "id": 917,
+      "id": 920,
       "name": "skhd",
       "url": "https://github.com/koekeishiya/skhd",
       "description": "Simple hotkey daemon for macOS",
@@ -10537,7 +10570,7 @@
       "isAppStore": false
     },
     {
-      "id": 918,
+      "id": 921,
       "name": "Strategr",
       "url": "https://khrykin.github.io/strategr/",
       "description": "No-fuss time management app. Stategr helps you maximize your productivity, giving you the quickest and most effective way to time-box your day",
@@ -10548,7 +10581,7 @@
       "isAppStore": false
     },
     {
-      "id": 919,
+      "id": 922,
       "name": "SwiftBiu",
       "url": "https://swiftbiu.com/",
       "description": "SwiftBiu is a text efficiency tool for macOS, select text in any app and a customizable extended toolbar pops up to make common operations \"one step\". Supports AI multimodal (text-to-text, text-to-graph), AppleScript/javascript plugins, html extension applets",
@@ -10560,7 +10593,7 @@
       "appStoreUrl": "https://apps.apple.com/cn/app/swiftbiu/id6754772331?mt=12"
     },
     {
-      "id": 920,
+      "id": 923,
       "name": "Table Habit",
       "url": "https://github.com/FriesI23/mhabit",
       "description": "– A cross-platform habit tracker that helps you build micro-habits with growth curves and offline-first syncing",
@@ -10572,7 +10605,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/table-habit/id6744886469"
     },
     {
-      "id": 921,
+      "id": 924,
       "name": "Time Out",
       "url": "https://www.dejal.com/timeout/",
       "description": "Easy break reminders, with micro-break and flexible customization if you want it",
@@ -10584,7 +10617,7 @@
       "appStoreUrl": "https://itunes.apple.com/us/app/time-out-break-reminders/id402592703?mt=12"
     },
     {
-      "id": 922,
+      "id": 925,
       "name": "TimeScribe",
       "url": "https://timescribe.app/",
       "description": "Simple and free working time recording",
@@ -10595,7 +10628,7 @@
       "isAppStore": false
     },
     {
-      "id": 923,
+      "id": 926,
       "name": "Timing",
       "url": "https://timingapp.com/",
       "description": "Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly",
@@ -10606,7 +10639,7 @@
       "isAppStore": false
     },
     {
-      "id": 924,
+      "id": 927,
       "name": "Textream",
       "url": "https://textream.fka.dev",
       "description": "Free teleprompter with real-time word tracking and voice-activated scrolling",
@@ -10618,7 +10651,7 @@
       "repoUrl": "https://github.com/f/textream"
     },
     {
-      "id": 925,
+      "id": 928,
       "name": "Trace",
       "url": "https://trace.techulus.xyz",
       "description": "Open-source spotlight alternative and shortcut toolkit",
@@ -10629,7 +10662,7 @@
       "isAppStore": false
     },
     {
-      "id": 926,
+      "id": 929,
       "name": "Trello",
       "url": "https://trello.com",
       "description": "A collaboration tool that organizes your projects into Kanban boards",
@@ -10641,7 +10674,7 @@
       "appStoreUrl": "https://itunes.apple.com/app/trello/id1278508951?ls=1&mt=12"
     },
     {
-      "id": 927,
+      "id": 930,
       "name": "Ukelele",
       "url": "http://scripts.sil.org/ukelele",
       "description": "Unicode Keyboard Layout Editor",
@@ -10652,7 +10685,7 @@
       "isAppStore": false
     },
     {
-      "id": 928,
+      "id": 931,
       "name": "Velja",
       "url": "https://sindresorhus.com/velja",
       "description": "Browser picker that lets you open links in a specific browser or a desktop app",
@@ -10664,7 +10697,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id1607635845"
     },
     {
-      "id": 929,
+      "id": 932,
       "name": "xScope",
       "url": "http://xscopeapp.com/",
       "description": "Powerful set of tools that are ideal for measuring, inspecting & testing on-screen graphics and layouts",
@@ -10675,7 +10708,7 @@
       "isAppStore": false
     },
     {
-      "id": 930,
+      "id": 933,
       "name": "Z",
       "url": "https://github.com/rupa/z",
       "description": "Powerful way to navigate easily by typing only a string of directory name in terminal instead of typing exact location of director",
@@ -10686,7 +10719,7 @@
       "isAppStore": false
     },
     {
-      "id": 931,
+      "id": 934,
       "name": "AeroSpace",
       "url": "https://github.com/nikitabobko/AeroSpace",
       "description": "i3-like tiling window manager for macOS",
@@ -10698,7 +10731,7 @@
       "repoUrl": "https://github.com/nikitabobko/AeroSpace"
     },
     {
-      "id": 932,
+      "id": 935,
       "name": "AltTab",
       "url": "https://alt-tab-macos.netlify.app",
       "description": "Open source window switcher with window previews",
@@ -10709,7 +10742,7 @@
       "isAppStore": false
     },
     {
-      "id": 933,
+      "id": 936,
       "name": "Amethyst",
       "url": "http://ianyh.com/amethyst/",
       "description": "Tiling window manager",
@@ -10720,7 +10753,7 @@
       "isAppStore": false
     },
     {
-      "id": 934,
+      "id": 937,
       "name": "Assignee",
       "url": "https://assignee.app",
       "description": "Simple, instant app switcher",
@@ -10732,7 +10765,7 @@
       "appStoreUrl": "https://apps.apple.com/app/apple-store/id1491598904?pt=120234215&ct=awesome-mac&mt=8"
     },
     {
-      "id": 935,
+      "id": 938,
       "name": "contexts",
       "url": "https://contexts.co/",
       "description": "Provides more power than the native Mac Dock. Especially when you have multiple screens, it can help you switch more quickly",
@@ -10743,7 +10776,7 @@
       "isAppStore": false
     },
     {
-      "id": 936,
+      "id": 939,
       "name": "DockDoor",
       "url": "https://dockdoor.net",
       "description": "Free and open source window peeking & alt-tab for macOS",
@@ -10754,7 +10787,7 @@
       "isAppStore": false
     },
     {
-      "id": 937,
+      "id": 940,
       "name": "Dockit",
       "url": "https://dockit-docs.pages.dev",
       "description": "An application that can dock any window to the edge of the screen",
@@ -10765,7 +10798,7 @@
       "isAppStore": false
     },
     {
-      "id": 938,
+      "id": 941,
       "name": "Dissolv",
       "url": "https://www.7sols.com/dissolv/",
       "description": "Hide and close inactive apps",
@@ -10777,7 +10810,7 @@
       "appStoreUrl": "https://apps.apple.com/app/dissolv/id1640893012"
     },
     {
-      "id": 939,
+      "id": 942,
       "name": "Divvy",
       "url": "http://mizage.com/divvy/",
       "description": "Window management at its finest with its amazing Divvy Grid system",
@@ -10788,7 +10821,7 @@
       "isAppStore": false
     },
     {
-      "id": 940,
+      "id": 943,
       "name": "Hummingbird",
       "url": "https://finestructure.co/hummingbird",
       "description": "Easily move and resize windows without mouse clicks, from anywhere within a window",
@@ -10799,7 +10832,7 @@
       "isAppStore": false
     },
     {
-      "id": 941,
+      "id": 944,
       "name": "IntelliDock",
       "url": "https://mightymac.app/intellidock/",
       "description": "Hides the Dock, Automatically",
@@ -10810,7 +10843,7 @@
       "isAppStore": false
     },
     {
-      "id": 942,
+      "id": 945,
       "name": "JankyBorders",
       "url": "https://github.com/FelixKratz/JankyBorders",
       "description": "A lightweight window border system for macOS",
@@ -10822,7 +10855,7 @@
       "repoUrl": "https://github.com/FelixKratz/JankyBorders"
     },
     {
-      "id": 943,
+      "id": 946,
       "name": "Loop",
       "url": "https://github.com/MrKai77/Loop",
       "description": "Window management made elegant. [Freeware][Freeware Icon]",
@@ -10834,7 +10867,7 @@
       "repoUrl": "https://github.com/MrKai77/Loop"
     },
     {
-      "id": 944,
+      "id": 947,
       "name": "MacsyZones",
       "url": "https://macsyzones.com/",
       "description": "Organize your windows with ease and boost your productivity",
@@ -10846,7 +10879,7 @@
       "repoUrl": "https://github.com/rohanrhu/MacsyZones"
     },
     {
-      "id": 945,
+      "id": 948,
       "name": "Lasso",
       "url": "https://thelasso.app",
       "description": "Intuitive and easy to use grid-based window manager",
@@ -10857,7 +10890,7 @@
       "isAppStore": false
     },
     {
-      "id": 946,
+      "id": 949,
       "name": "Magnet",
       "url": "http://magnet.crowdcafe.com/",
       "description": "Window manager that keeps your workspace organized",
@@ -10869,7 +10902,7 @@
       "appStoreUrl": "https://itunes.apple.com/us/app/id441258766"
     },
     {
-      "id": 947,
+      "id": 950,
       "name": "MakeItHome",
       "url": "https://github.com/Geckos-Ink/MakeItHome",
       "description": "Extends your macOS' UI allowing you to access with the pointer in the \"over screen\", an extension of the interface for accessing quick actions, mainly fast switch of the most used running applications",
@@ -10881,7 +10914,7 @@
       "appStoreUrl": "https://apps.apple.com/it/app/makeithome-screen-extender/id6444596296?l=en-GB&mt=12"
     },
     {
-      "id": 948,
+      "id": 951,
       "name": "Moom",
       "url": "http://manytricks.com/moom/",
       "description": "Allows you to easily move and zoom windows, or to another display—using either the mouse or the keyboard",
@@ -10892,7 +10925,7 @@
       "isAppStore": false
     },
     {
-      "id": 949,
+      "id": 952,
       "name": "Omni",
       "url": "https://github.com/BarutSRB/OmniWM",
       "description": "Notorized Niri and Hyprland inspired tiling window manager with animations",
@@ -10904,7 +10937,7 @@
       "repoUrl": "https://github.com/BarutSRB/OmniWM"
     },
     {
-      "id": 950,
+      "id": 953,
       "name": "rcmd",
       "url": "https://lowtechguys.com/rcmd/",
       "description": "Use the <kbd>⌘ Right Command</kbd> key to switch applications based on their name",
@@ -10916,7 +10949,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/rcmd-app-switcher/id1596283165"
     },
     {
-      "id": 951,
+      "id": 954,
       "name": "Rectangle-app",
       "url": "https://github.com/rxhanson/Rectangle",
       "description": "Rectangle is a window management app based on Spectacle, written in Swift",
@@ -10927,7 +10960,7 @@
       "isAppStore": false
     },
     {
-      "id": 952,
+      "id": 955,
       "name": "ShiftIt",
       "url": "https://github.com/fikovnik/ShiftIt",
       "description": "Managing window size and position in OSX",
@@ -10939,7 +10972,7 @@
       "repoUrl": "https://github.com/fikovnik/ShiftIt"
     },
     {
-      "id": 953,
+      "id": 956,
       "name": "ShortcutCycle",
       "url": "https://shortcutcycle.vercel.app/",
       "description": "Stop endless Command+Tab cycling. Group apps by context (Web, Code, Social) and flow between them with a single hotkey",
@@ -10952,7 +10985,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/shortcutcycle/id6758281578"
     },
     {
-      "id": 954,
+      "id": 957,
       "name": "Sidebar",
       "url": "http://sidebarapp.net/",
       "description": "The modern Dock replacement for your Mac",
@@ -10963,7 +10996,7 @@
       "isAppStore": false
     },
     {
-      "id": 955,
+      "id": 958,
       "name": "SizeUp",
       "url": "http://www.irradiatedsoftware.com/sizeup/",
       "description": "Powerful, keyboard-centric window management",
@@ -10974,7 +11007,7 @@
       "isAppStore": false
     },
     {
-      "id": 956,
+      "id": 959,
       "name": "Slate",
       "url": "https://github.com/jigish/slate",
       "description": "Window management application similar to Divvy and SizeUp (except better and free!). (**Needs config file**)",
@@ -10985,7 +11018,7 @@
       "isAppStore": false
     },
     {
-      "id": 957,
+      "id": 960,
       "name": "Swift Shift",
       "url": "https://swiftshift.app",
       "description": "Use your mouse with a keyboard shortcut to move and resize your windows quickly. It offers options to customize the draggable areas and mouse behavior",
@@ -10996,7 +11029,7 @@
       "isAppStore": false
     },
     {
-      "id": 958,
+      "id": 961,
       "name": "Tiles",
       "url": "https://freemacsoft.net/tiles/",
       "description": "Easily reorganize windows by either dragging them to the edges of the screen, using keyboard shortcuts, or the menu bar",
@@ -11007,7 +11040,7 @@
       "isAppStore": false
     },
     {
-      "id": 959,
+      "id": 962,
       "name": "Topit",
       "url": "https://github.com/lihaoyun6/Topit",
       "description": "Pin any window to the top of your screen",
@@ -11019,7 +11052,7 @@
       "repoUrl": "https://github.com/lihaoyun6/Topit"
     },
     {
-      "id": 960,
+      "id": 963,
       "name": "Total Spaces",
       "url": "http://totalspaces.binaryage.com/",
       "description": "Provides window management much like ubuntu. Creates hotkeys for workspaces which allows you to easily move around",
@@ -11030,7 +11063,7 @@
       "isAppStore": false
     },
     {
-      "id": 961,
+      "id": 964,
       "name": "yabai",
       "url": "https://github.com/koekeishiya/yabai",
       "description": "Tiling window manager for macOS. A rewrite of chunkwm, it provides a more seamless integration with the operating system",
@@ -11041,7 +11074,7 @@
       "isAppStore": false
     },
     {
-      "id": 962,
+      "id": 965,
       "name": "1Password",
       "url": "https://1password.com/",
       "description": "Cross-platform password management tool",
@@ -11052,7 +11085,7 @@
       "isAppStore": false
     },
     {
-      "id": 963,
+      "id": 966,
       "name": "Bitwarden",
       "url": "https://bitwarden.com",
       "description": "Open source password management tool for Mac OS, iOS and browsers",
@@ -11064,7 +11097,7 @@
       "repoUrl": "https://github.com/bitwarden"
     },
     {
-      "id": 964,
+      "id": 967,
       "name": "Buttercup",
       "url": "https://buttercup.pw/",
       "description": "The Password Manager You Deserve",
@@ -11075,7 +11108,7 @@
       "isAppStore": false
     },
     {
-      "id": 965,
+      "id": 968,
       "name": "Dashlane",
       "url": "https://www.dashlane.com",
       "description": "Cloud-based password manager with award-winning design",
@@ -11086,7 +11119,7 @@
       "isAppStore": false
     },
     {
-      "id": 966,
+      "id": 969,
       "name": "Enpass",
       "url": "https://www.enpass.io/",
       "description": "Cross-platform password management tool with cloud integration",
@@ -11098,7 +11131,7 @@
       "appStoreUrl": "https://itunes.apple.com/us/app/enpass-password-manager/id455566716"
     },
     {
-      "id": 967,
+      "id": 970,
       "name": "Keyzer",
       "url": "https://apps.apple.com/app/Keyzer/6500434773",
       "description": "Simple password manager that supports saving portable password files",
@@ -11109,7 +11142,7 @@
       "isAppStore": false
     },
     {
-      "id": 968,
+      "id": 971,
       "name": "Keeweb",
       "url": "https://keeweb.info/",
       "description": "Free, cross-platform password manager compatible with KeePass",
@@ -11121,7 +11154,7 @@
       "repoUrl": "https://github.com/keeweb/keeweb"
     },
     {
-      "id": 969,
+      "id": 972,
       "name": "KeepassXC",
       "url": "https://keepassxc.org/",
       "description": "Free, open source, cross-platform password manager",
@@ -11133,7 +11166,7 @@
       "repoUrl": "https://github.com/keepassxreboot/keepassxc"
     },
     {
-      "id": 970,
+      "id": 973,
       "name": "MacPass",
       "url": "https://macpass.github.io/",
       "description": "Open-source KeePass Mac OS client",
@@ -11144,7 +11177,7 @@
       "isAppStore": false
     },
     {
-      "id": 971,
+      "id": 974,
       "name": "SafeInCloud",
       "url": "https://safe-in-cloud.com/en/",
       "description": "Cross Platform password management, low cost app!",
@@ -11156,7 +11189,7 @@
       "appStoreUrl": "https://itunes.apple.com/app/safeincloud-password-manager/id883070818"
     },
     {
-      "id": 972,
+      "id": 975,
       "name": "Strongbox",
       "url": "https://strongboxsafe.com/",
       "description": "Secure Password Management for iOS and MacOS. Open Source. Compatible with KeePass and Password Safe",
@@ -11169,7 +11202,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/strongbox/id1270075435?mt=12"
     },
     {
-      "id": 973,
+      "id": 976,
       "name": "Swifty",
       "url": "https://getswifty.pro/",
       "description": "Free Offline-first Password Manager for MacOS, Windows and Linux",
@@ -11181,7 +11214,7 @@
       "repoUrl": "https://github.com/swiftyapp/swifty"
     },
     {
-      "id": 974,
+      "id": 977,
       "name": "Command X",
       "url": "https://sindresorhus.com/command-x",
       "description": "Cut and paste files in Finder",
@@ -11193,7 +11226,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id1666327168"
     },
     {
-      "id": 975,
+      "id": 978,
       "name": "Default Folder X",
       "url": "https://www.stclairsoft.com/DefaultFolderX/index.html",
       "description": "Quick access to your files and folders in every app",
@@ -11204,7 +11237,7 @@
       "isAppStore": false
     },
     {
-      "id": 976,
+      "id": 979,
       "name": "FileMinutes",
       "url": "https://www.fileminutes.com/",
       "description": "Find files and take actions, all in one",
@@ -11215,7 +11248,7 @@
       "isAppStore": false
     },
     {
-      "id": 977,
+      "id": 980,
       "name": "FinderFix",
       "url": "https://synappser.github.io/apps/finderfix/",
       "description": "Finally, a lasting solution for Finder windows size and position",
@@ -11226,7 +11259,7 @@
       "isAppStore": false
     },
     {
-      "id": 978,
+      "id": 981,
       "name": "SaneClick",
       "url": "https://saneclick.com",
       "description": "Finder extension adding 51+ right-click context menu actions for file management, image conversion, and developer tools",
@@ -11238,7 +11271,7 @@
       "repoUrl": "https://github.com/sane-apps/SaneClick"
     },
     {
-      "id": 979,
+      "id": 982,
       "name": "FlowVision",
       "url": "https://github.com/netdcy/FlowVision",
       "description": "RWaterfall-style Image Viewer for macOS",
@@ -11249,7 +11282,7 @@
       "isAppStore": false
     },
     {
-      "id": 980,
+      "id": 983,
       "name": "fman",
       "url": "https://fman.io",
       "description": "The first dual-pane file manager to integrate features from Sublime Text",
@@ -11260,7 +11293,7 @@
       "isAppStore": false
     },
     {
-      "id": 981,
+      "id": 984,
       "name": "ForkLift",
       "url": "http://binarynights.com/forklift/",
       "description": "The most advanced dual pane file manager and file transfer client for macOS",
@@ -11271,7 +11304,7 @@
       "isAppStore": false
     },
     {
-      "id": 982,
+      "id": 985,
       "name": "Path Finder",
       "url": "http://www.cocoatech.com/pathfinder/",
       "description": "File management app",
@@ -11282,7 +11315,7 @@
       "isAppStore": false
     },
     {
-      "id": 983,
+      "id": 986,
       "name": "QSpace",
       "url": "https://qspace.awehunt.com",
       "description": "A clean and efficient Multi-view File Manager",
@@ -11294,7 +11327,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/id1469774098"
     },
     {
-      "id": 984,
+      "id": 987,
       "name": "RClick",
       "url": "https://github.com/wflixu/RClick",
       "description": "Add new functionality to the macOS Finder context menu",
@@ -11306,7 +11339,18 @@
       "repoUrl": "https://github.com/wflixu/RClick"
     },
     {
-      "id": 985,
+      "id": 988,
+      "name": "SwiftyMenu",
+      "url": "https://apps.apple.com/us/app/swiftymenu/id1567748223",
+      "description": "A Finder extension which presents a customizable menu to rapidly open selected folders or files with your favorite applications",
+      "category": "Utilities",
+      "subcategory": "Finder Tools",
+      "pricing": "paid",
+      "isOpenSource": false,
+      "isAppStore": false
+    },
+    {
+      "id": 989,
       "name": "TotalFinder",
       "url": "http://totalfinder.binaryage.com/",
       "description": "Chrome-styled Finder substitute",
@@ -11317,7 +11361,7 @@
       "isAppStore": false
     },
     {
-      "id": 986,
+      "id": 990,
       "name": "XtraFinder",
       "url": "https://www.trankynam.com/xtrafinder/",
       "description": "Adds tabs and cut to Mac Finder",
@@ -11328,7 +11372,7 @@
       "isAppStore": false
     },
     {
-      "id": 987,
+      "id": 991,
       "name": "Actions",
       "url": "https://github.com/sindresorhus/Actions",
       "description": "Provides many useful actions for the Shortcuts app",
@@ -11341,7 +11385,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id1586435171"
     },
     {
-      "id": 988,
+      "id": 992,
       "name": "AI Actions",
       "url": "https://sindresorhus.com/ai-actions",
       "description": "AI actions for the Shortcuts app",
@@ -11352,7 +11396,7 @@
       "isAppStore": false
     },
     {
-      "id": 989,
+      "id": 993,
       "name": "DisplayBuddy",
       "url": "https://displaybuddy.app",
       "description": "Control the brightness, contrast, input source and more of your external display directly from your Mac",
@@ -11363,7 +11407,7 @@
       "isAppStore": false
     },
     {
-      "id": 990,
+      "id": 994,
       "name": "f.lux",
       "url": "https://justgetflux.com/",
       "description": "Makes the color of your computer's display adapt to the time of day",
@@ -11374,7 +11418,7 @@
       "isAppStore": false
     },
     {
-      "id": 991,
+      "id": 995,
       "name": "Grayscale Mode",
       "url": "https://github.com/rkbhochalya/grayscale-mode",
       "description": "An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G)",
@@ -11386,7 +11430,7 @@
       "repoUrl": "https://github.com/rkbhochalya/grayscale-mode"
     },
     {
-      "id": 992,
+      "id": 996,
       "name": "Hyperduck",
       "url": "https://sindresorhus.com/hyperduck",
       "description": "Receive links from your iOS & visionOS devices",
@@ -11398,7 +11442,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id1666327168"
     },
     {
-      "id": 993,
+      "id": 997,
       "name": "KeyCastr",
       "url": "https://github.com/keycastr/keycastr",
       "description": "Open-source keystroke visualizer",
@@ -11410,7 +11454,7 @@
       "repoUrl": "https://github.com/keycastr/keycastr"
     },
     {
-      "id": 994,
+      "id": 998,
       "name": "Luminescent",
       "url": "https://naden.co",
       "description": "Bring back Keyboard Backlight Shortcuts for the MacBook",
@@ -11421,7 +11465,7 @@
       "isAppStore": false
     },
     {
-      "id": 995,
+      "id": 999,
       "name": "Lunar",
       "url": "https://lunar.fyi/",
       "description": "Help you adujst brightness, contrast and volumn of your external display",
@@ -11433,7 +11477,7 @@
       "repoUrl": "https://github.com/alin23/Lunar"
     },
     {
-      "id": 996,
+      "id": 1000,
       "name": "Shifty",
       "url": "http://shifty.natethompson.io",
       "description": "A macOS menu bar app that gives you more control over Night Shift",
@@ -11445,7 +11489,7 @@
       "repoUrl": "https://github.com/thompsonate/Shifty"
     },
     {
-      "id": 997,
+      "id": 1001,
       "name": "Snap",
       "url": "http://indragie.com/snap",
       "description": "Launch an app in a snap. Ridiculously easy shortcut management",
@@ -11457,7 +11501,7 @@
       "appStoreUrl": "https://itunes.apple.com/app/id418073146"
     },
     {
-      "id": 998,
+      "id": 1002,
       "name": "Shareful",
       "url": "https://sindresorhus.com/shareful",
       "description": "Supercharge the system share menu with copy, save, and open actions",
@@ -11469,7 +11513,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id1522267256"
     },
     {
-      "id": 999,
+      "id": 1003,
       "name": "Mouse Jiggler for Mac",
       "url": "https://mousejigglermac.com",
       "description": "Prevent Mac from sleep with Mac Mouse Mover",
@@ -11481,7 +11525,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id6740313656"
     },
     {
-      "id": 1000,
+      "id": 1004,
       "name": "AlDente",
       "url": "https://apphousekitchen.com/",
       "description": "Battery charge limiter for MacBooks",
@@ -11493,7 +11537,7 @@
       "repoUrl": "https://github.com/davidwernhart/AlDente"
     },
     {
-      "id": 1001,
+      "id": 1005,
       "name": "Amphetamine",
       "url": "https://itunes.apple.com/us/app/amphetamine/id937984704",
       "description": "Keep your Mac awake",
@@ -11505,7 +11549,7 @@
       "appStoreUrl": "https://itunes.apple.com/us/app/amphetamine/id937984704"
     },
     {
-      "id": 1002,
+      "id": 1006,
       "name": "AdBlock One",
       "url": "https://cleanerone.trendmicro.com/ad-block-one-for-mac/?utm_source=github&utm_medium=referral&utm_campaign=githubproject",
       "description": "Free ad blocker for Safari",
@@ -11517,7 +11561,7 @@
       "appStoreUrl": "https://apps.apple.com/app/apple-store/id1491889901?pt=444218&ct=GitHub&mt=8"
     },
     {
-      "id": 1003,
+      "id": 1007,
       "name": "AppCleaner",
       "url": "http://freemacsoft.net/appcleaner/",
       "description": "Thoroughly uninstall apps",
@@ -11528,7 +11572,7 @@
       "isAppStore": false
     },
     {
-      "id": 1004,
+      "id": 1008,
       "name": "Apple Silicon App Test",
       "url": "https://doesitarm.com/apple-silicon-app-test/",
       "description": "Check Apple Silicon app compatibility",
@@ -11540,7 +11584,7 @@
       "repoUrl": "https://github.com/ThatGuySam/doesitarm"
     },
     {
-      "id": 1005,
+      "id": 1009,
       "name": "AirBattery",
       "url": "https://lihaoyun6.github.io/airbattery/",
       "description": "View all device batteries in the Dock, menu bar, or widgets",
@@ -11552,7 +11596,7 @@
       "repoUrl": "https://github.com/lihaoyun6/AirBattery"
     },
     {
-      "id": 1006,
+      "id": 1010,
       "name": "Background Music",
       "url": "https://github.com/kyleneideck/BackgroundMusic",
       "description": "Control app volumes and record system audio",
@@ -11564,7 +11608,7 @@
       "repoUrl": "https://github.com/kyleneideck/BackgroundMusic"
     },
     {
-      "id": 1007,
+      "id": 1011,
       "name": "Cleaner One",
       "url": "https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8",
       "description": "Disk cleaning and Mac optimization",
@@ -11576,7 +11620,7 @@
       "appStoreUrl": "https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8"
     },
     {
-      "id": 1008,
+      "id": 1012,
       "name": "Cleaner for Xcode",
       "url": "https://github.com/waylybaye/XcodeCleaner-SwiftUI",
       "description": "Remove unwanted Xcode files",
@@ -11588,7 +11632,7 @@
       "repoUrl": "https://github.com/waylybaye/XcodeCleaner-SwiftUI"
     },
     {
-      "id": 1009,
+      "id": 1013,
       "name": "coconutBattery",
       "url": "https://www.coconut-flavour.com/coconutbattery/",
       "description": "Mac battery information and statistics",
@@ -11599,7 +11643,7 @@
       "isAppStore": false
     },
     {
-      "id": 1010,
+      "id": 1014,
       "name": "DaisyDisk",
       "url": "https://daisydiskapp.com/",
       "description": "Disk usage analyzer and cleaner",
@@ -11610,7 +11654,7 @@
       "isAppStore": false
     },
     {
-      "id": 1011,
+      "id": 1015,
       "name": "Dayflow",
       "url": "https://github.com/JerryZLiu/Dayflow",
       "description": "Screen activity timeline with AI support",
@@ -11622,7 +11666,7 @@
       "repoUrl": "https://github.com/JerryZLiu/Dayflow"
     },
     {
-      "id": 1012,
+      "id": 1016,
       "name": "DockAnchor",
       "url": "https://github.com/bwya77/DockAnchor",
       "description": "Lock the macOS Dock to a single screen in a multi-monitor setup",
@@ -11634,7 +11678,7 @@
       "repoUrl": "https://github.com/bwya77/DockAnchor"
     },
     {
-      "id": 1013,
+      "id": 1017,
       "name": "everythingByMdfind",
       "url": "https://github.com/appledragon/everythingByMdfind",
       "description": "Fast file search using Spotlight",
@@ -11646,7 +11690,7 @@
       "repoUrl": "https://github.com/appledragon/everythingByMdfind"
     },
     {
-      "id": 1014,
+      "id": 1018,
       "name": "ExtendFS",
       "url": "https://apps.kpchew.com/extendfs/",
       "description": "Read-only access to Linux ext2/3/4 in macOS Sequoia and later without a kernel extension",
@@ -11659,7 +11703,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/mount-ext4-drives-extendfs/id6755664332"
     },
     {
-      "id": 1015,
+      "id": 1019,
       "name": "gfxCardStatus",
       "url": "https://gfx.io/",
       "description": "Monitor graphics card usage and battery impact",
@@ -11670,7 +11714,7 @@
       "isAppStore": false
     },
     {
-      "id": 1016,
+      "id": 1020,
       "name": "GrandPerspective",
       "url": "https://grandperspectiv.sourceforge.net",
       "description": "Visualize disk usage with tree maps",
@@ -11683,7 +11727,7 @@
       "appStoreUrl": "https://itunes.apple.com/us/app/grandperspective/id1111570163"
     },
     {
-      "id": 1017,
+      "id": 1021,
       "name": "Gray",
       "url": "https://github.com/zenangst/Gray",
       "description": "Per-app light/dark mode switcher",
@@ -11695,7 +11739,7 @@
       "repoUrl": "https://github.com/zenangst/Gray"
     },
     {
-      "id": 1018,
+      "id": 1022,
       "name": "HandShaker",
       "url": "http://www.smartisan.com/apps/handshaker",
       "description": "Manage Android phone content on Mac",
@@ -11706,7 +11750,7 @@
       "isAppStore": false
     },
     {
-      "id": 1019,
+      "id": 1023,
       "name": "iStat Menus",
       "url": "https://bjango.com/mac/istatmenus/",
       "description": "Advanced system monitor for menubar",
@@ -11717,7 +11761,7 @@
       "isAppStore": false
     },
     {
-      "id": 1020,
+      "id": 1024,
       "name": "iStats",
       "url": "https://github.com/Chris911/iStats",
       "description": "Command-line system information tool",
@@ -11728,7 +11772,7 @@
       "isAppStore": false
     },
     {
-      "id": 1021,
+      "id": 1025,
       "name": "Juice",
       "url": "https://github.com/brianmichel/Juice",
       "description": "Enhanced battery information display",
@@ -11740,7 +11784,7 @@
       "repoUrl": "https://github.com/brianmichel/Juice"
     },
     {
-      "id": 1022,
+      "id": 1026,
       "name": "KeepingYouAwake",
       "url": "https://github.com/newmarcel/KeepingYouAwake",
       "description": "Caffeine alternative with dark mode support",
@@ -11752,7 +11796,7 @@
       "repoUrl": "https://github.com/newmarcel/KeepingYouAwake"
     },
     {
-      "id": 1023,
+      "id": 1027,
       "name": "macUSB",
       "url": "https://github.com/Kruszoneq/macUSB",
       "description": "A bootable macOS / OS X installer creator for Apple Silicon Macs",
@@ -11764,7 +11808,7 @@
       "repoUrl": "https://github.com/Kruszoneq/macUSB"
     },
     {
-      "id": 1024,
+      "id": 1028,
       "name": "MagicQuit",
       "url": "https://magicquit.com/",
       "description": "Automatically closes unused apps on macOS to free memory, declutter the desktop, and improve battery life",
@@ -11776,7 +11820,7 @@
       "repoUrl": "https://github.com/BigBerny/magicquit"
     },
     {
-      "id": 1025,
+      "id": 1029,
       "name": "MiddleDrag",
       "url": "https://github.com/NullPointerDepressiveDisorder/MiddleDrag",
       "description": "Three-finger trackpad gestures for middle-click and middle-drag on macOS",
@@ -11788,7 +11832,7 @@
       "repoUrl": "https://github.com/NullPointerDepressiveDisorder/MiddleDrag"
     },
     {
-      "id": 1026,
+      "id": 1030,
       "name": "Monity",
       "url": "http://www.monityapp.com/",
       "description": "System monitoring widget for OS X",
@@ -11799,7 +11843,7 @@
       "isAppStore": false
     },
     {
-      "id": 1027,
+      "id": 1031,
       "name": "Mounty",
       "url": "http://enjoygineering.com/mounty/",
       "description": "Tiny tool to re-mount write-protected NTFS volumes under Mac OS X 10.9+ in read-write mode",
@@ -11810,7 +11854,7 @@
       "isAppStore": false
     },
     {
-      "id": 1028,
+      "id": 1032,
       "name": "NitroShare",
       "url": "https://nitroshare.net/",
       "description": "Cross-platform network file transfer utility",
@@ -11822,7 +11866,7 @@
       "repoUrl": "https://github.com/nitroshare/nitroshare-desktop"
     },
     {
-      "id": 1029,
+      "id": 1033,
       "name": "OmniDiskSweeper",
       "url": "https://www.omnigroup.com/more",
       "description": "Shows you the files on your drive, ordered by size. It can be used to find and remove unused files",
@@ -11833,7 +11877,7 @@
       "isAppStore": false
     },
     {
-      "id": 1030,
+      "id": 1034,
       "name": "OnyX",
       "url": "https://www.titanium-software.fr/en/onyx.html",
       "description": "Multifunction utility to verify disks and files, run cleaning and system maintenance tasks, configure hidden options and more",
@@ -11844,7 +11888,7 @@
       "isAppStore": false
     },
     {
-      "id": 1031,
+      "id": 1035,
       "name": "Pearcleaner",
       "url": "https://itsalin.com/appInfo/?id=pearcleaner",
       "description": "A free, source-available and fair-code licensed mac app cleaner",
@@ -11856,7 +11900,7 @@
       "repoUrl": "https://github.com/alienator88/Pearcleaner"
     },
     {
-      "id": 1032,
+      "id": 1036,
       "name": "Paragon NTFS",
       "url": "https://www.paragon-software.com/home/ntfs-mac/",
       "description": "Read/write access to NTFS in macOS Sierra",
@@ -11867,7 +11911,7 @@
       "isAppStore": false
     },
     {
-      "id": 1033,
+      "id": 1037,
       "name": "stats",
       "url": "https://github.com/exelban/stats",
       "description": "free Mac system monitor for the menubar",
@@ -11879,7 +11923,7 @@
       "repoUrl": "https://github.com/exelban/stats"
     },
     {
-      "id": 1034,
+      "id": 1038,
       "name": "Sensei",
       "url": "https://sensei.app/",
       "description": "Sensei is a multi-tool for Mac performance, with features spanning across both hardware and software",
@@ -11890,7 +11934,7 @@
       "isAppStore": false
     },
     {
-      "id": 1035,
+      "id": 1039,
       "name": "Sleepr",
       "url": "https://sleepr.app/",
       "description": "Sleepr brings back sleep timer on macOS",
@@ -11902,7 +11946,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/sleepr-app/id6465683427"
     },
     {
-      "id": 1036,
+      "id": 1040,
       "name": "Sloth",
       "url": "https://sveinbjorn.org/sloth/",
       "description": "Shows all open files, directories, sockets, pipes and devices in use by all running processes",
@@ -11914,7 +11958,7 @@
       "repoUrl": "https://github.com/sveinbjornt/Sloth/"
     },
     {
-      "id": 1037,
+      "id": 1041,
       "name": "SteerMouse",
       "url": "https://plentycom.jp/en/steermouse/",
       "description": "SteerMouse is a utility that lets you freely customize buttons, wheels and cursor speed. Both USB and Bluetooth mice are supported",
@@ -11925,7 +11969,7 @@
       "isAppStore": false
     },
     {
-      "id": 1038,
+      "id": 1042,
       "name": "SwiftQuit",
       "url": "https://github.com/onebadidea/swiftquit/",
       "description": "Enables automatic quitting of macOS apps when closing their windows",
@@ -11937,7 +11981,7 @@
       "repoUrl": "https://github.com/onebadidea/swiftquit"
     },
     {
-      "id": 1039,
+      "id": 1043,
       "name": "Core Tunnel",
       "url": "https://codinn.com/tunnel/",
       "description": "Application for managing SSH connections",
@@ -11949,7 +11993,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/core-tunnel/id1354318707"
     },
     {
-      "id": 1040,
+      "id": 1044,
       "name": "TG Pro",
       "url": "https://www.tunabellysoftware.com/tgpro/",
       "description": "Temperature monitoring, fan control & hardware diagnostics to help keep your Mac cool and healthy",
@@ -11960,7 +12004,7 @@
       "isAppStore": false
     },
     {
-      "id": 1041,
+      "id": 1045,
       "name": "Time Machine Inspector",
       "url": "https://github.com/probablykasper/time-machine-inspector",
       "description": "Find out what's hogging up your Time Machine backups",
@@ -11972,7 +12016,7 @@
       "repoUrl": "https://github.com/probablykasper/time-machine-inspector"
     },
     {
-      "id": 1042,
+      "id": 1046,
       "name": "Tuxera NTFS",
       "url": "http://www.tuxera.com/products/tuxera-ntfs-for-mac/",
       "description": "Full read-write compatibility with NTFS-formatted drives on a Mac",
@@ -11983,7 +12027,7 @@
       "isAppStore": false
     },
     {
-      "id": 1043,
+      "id": 1047,
       "name": "Overkill",
       "url": "https://github.com/KrauseFx/overkill-for-mac",
       "description": "Stop iTunes from opening when you connect your iPhone",
@@ -11994,7 +12038,7 @@
       "isAppStore": false
     },
     {
-      "id": 1044,
+      "id": 1048,
       "name": "OpenEmu",
       "url": "http://openemu.org/",
       "description": "A great video game console emulator, supports many different emulators in a single application. (e.g. Sony PSP, GameBoy, NDS and so on)",
@@ -12005,7 +12049,7 @@
       "isAppStore": false
     },
     {
-      "id": 1045,
+      "id": 1049,
       "name": "PlayCover",
       "url": "https://github.com/PlayCover/PlayCover",
       "description": "Run iOS apps and games on Apple Silicon Macs with mouse, keyboard and controller support",
@@ -12016,7 +12060,7 @@
       "isAppStore": false
     },
     {
-      "id": 1046,
+      "id": 1050,
       "name": "Porting Kit",
       "url": "http://portingkit.com/",
       "description": "Install Windows® Games inside your Mac",
@@ -12027,7 +12071,7 @@
       "isAppStore": false
     },
     {
-      "id": 1047,
+      "id": 1051,
       "name": "PPSSPP",
       "url": "https://www.ppsspp.org",
       "description": "A awesome PSP emulator for any OS you can dream of!",
@@ -12038,7 +12082,7 @@
       "isAppStore": false
     },
     {
-      "id": 1048,
+      "id": 1052,
       "name": "RPCS3",
       "url": "https://rpcs3.net",
       "description": "The Open-source PlayStation 3 Emulator",
@@ -12049,7 +12093,7 @@
       "isAppStore": false
     },
     {
-      "id": 1049,
+      "id": 1053,
       "name": "Ryubing",
       "url": "https://github.com/Ryubing",
       "description": "A fork of the discontinued Switch emulator, Ryujinx",
@@ -12060,7 +12104,7 @@
       "isAppStore": false
     },
     {
-      "id": 1050,
+      "id": 1054,
       "name": "Suyu",
       "url": "https://suyu.dev/",
       "description": "A familiar, open source, and powerful Nintendo Switch emulator",
@@ -12071,7 +12115,7 @@
       "isAppStore": false
     },
     {
-      "id": 1051,
+      "id": 1055,
       "name": "Whisky",
       "url": "https://getwhisky.app/",
       "description": "Wine wrapper that supports GPTK (Game Porting Toolkit)",
@@ -12082,7 +12126,7 @@
       "isAppStore": false
     },
     {
-      "id": 1052,
+      "id": 1056,
       "name": "AnyDesk",
       "url": "https://anydesk.com",
       "description": "Provides remote access across multiple machines",
@@ -12093,7 +12137,7 @@
       "isAppStore": false
     },
     {
-      "id": 1053,
+      "id": 1057,
       "name": "Moonlight",
       "url": "https://github.com/moonlight-stream/moonlight-qt",
       "description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)",
@@ -12105,7 +12149,7 @@
       "repoUrl": "https://github.com/moonlight-stream/moonlight-qt"
     },
     {
-      "id": 1054,
+      "id": 1058,
       "name": "Parsec",
       "url": "https://parsec.app",
       "description": "Parsec offers a seamless 4k experience at up to 60 frames per second with near-zero latency. Secure, flexible, effortless access to whatever you do, at any time, from wherever you go",
@@ -12116,7 +12160,7 @@
       "isAppStore": false
     },
     {
-      "id": 1055,
+      "id": 1059,
       "name": "RealVNC",
       "url": "https://www.realvnc.com",
       "description": "The original and best software for remote access across desktop and mobile",
@@ -12127,7 +12171,7 @@
       "isAppStore": false
     },
     {
-      "id": 1056,
+      "id": 1060,
       "name": "RoyalTSX",
       "url": "https://www.royalapps.com/ts/mac/features",
       "description": "Royal TSX is an ideal tool for system engineers and other IT professionals who need remote access to systems with different protocols",
@@ -12138,7 +12182,7 @@
       "isAppStore": false
     },
     {
-      "id": 1057,
+      "id": 1061,
       "name": "RustDesk",
       "url": "https://rustdesk.com/",
       "description": "Yet another remote desktop software",
@@ -12150,7 +12194,7 @@
       "repoUrl": "https://github.com/rustdesk/rustdesk"
     },
     {
-      "id": 1058,
+      "id": 1062,
       "name": "Steam Link",
       "url": "https://apps.apple.com/us/app/steam-link/id1246969117",
       "description": "The Steam Link app allows you to play your Steam games across all your computers",
@@ -12161,7 +12205,7 @@
       "isAppStore": false
     },
     {
-      "id": 1059,
+      "id": 1063,
       "name": "Sunshine",
       "url": "https://github.com/LizardByte/Sunshine",
       "description": "Self-hosted game stream host for Moonlight",
@@ -12173,7 +12217,7 @@
       "repoUrl": "https://github.com/LizardByte/Sunshine"
     },
     {
-      "id": 1060,
+      "id": 1064,
       "name": "TeamViewer",
       "url": "https://www.teamviewer.com/en",
       "description": "Proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing, and file transfer between computers",
@@ -12184,7 +12228,7 @@
       "isAppStore": false
     },
     {
-      "id": 1061,
+      "id": 1065,
       "name": "Windows App",
       "url": "https://apps.apple.com/us/app/windows-app/id1295203466",
       "description": "Connect to a remote PC or virtual apps and desktops made available by your admin",
@@ -12195,7 +12239,7 @@
       "isAppStore": false
     },
     {
-      "id": 1062,
+      "id": 1066,
       "name": "QLMarkdown",
       "url": "https://github.com/sbarex/QLMarkdown",
       "description": "Quick Look extension for Markdown files. -",
@@ -12206,7 +12250,7 @@
       "isAppStore": false
     },
     {
-      "id": 1063,
+      "id": 1067,
       "name": "quick-look-plugins",
       "url": "https://github.com/sindresorhus/quick-look-plugins",
       "description": "List of useful [Quick Look](https://en.wikipedia.org/wiki/Quick_Look) plugins for developers",
@@ -12217,7 +12261,7 @@
       "isAppStore": false
     },
     {
-      "id": 1064,
+      "id": 1068,
       "name": "Syntax Highlight",
       "url": "https://github.com/sbarex/SourceCodeSyntaxHighlight",
       "description": "Quick Look extension for highlight source code files. -",
@@ -12228,7 +12272,7 @@
       "isAppStore": false
     },
     {
-      "id": 1065,
+      "id": 1069,
       "name": "Setapp",
       "url": "https://setapp.sjv.io/c/6018600/343321/5114",
       "description": "The best free and paid apps (like CleanShot, Bartender, Paste, TablePlus, etc.) in one suite for only 10$/month!",
@@ -12239,7 +12283,7 @@
       "isAppStore": false
     },
     {
-      "id": 1066,
+      "id": 1070,
       "name": "Applite",
       "url": "https://aerolite.dev/applite",
       "description": "User-friendly GUI app for Homebrew Casks. Install, update, and uninstall apps with a single click",
@@ -12251,7 +12295,7 @@
       "repoUrl": "https://github.com/milanvarady/Applite"
     },
     {
-      "id": 1067,
+      "id": 1071,
       "name": "Cork",
       "url": "https://corkmac.app",
       "description": "An intuitive and complete Homebrew GUI written in SwiftUI that supports all Homebrew features",
@@ -12263,7 +12307,7 @@
       "repoUrl": "https://github.com/buresdv/cork"
     },
     {
-      "id": 1068,
+      "id": 1072,
       "name": "Homebrew",
       "url": "https://brew.sh/",
       "description": "The missing package manager for macOS",
@@ -12275,7 +12319,7 @@
       "repoUrl": "https://github.com/Homebrew/brew/"
     },
     {
-      "id": 1069,
+      "id": 1073,
       "name": "MacPorts",
       "url": "https://www.macports.org/",
       "description": "Open-source community initiative to design an easy-to-use system for compiling, installing, and upgrading either command-line, X11 or Aqua based open-source software on the Mac OS X operating system",
@@ -12287,7 +12331,7 @@
       "repoUrl": "https://github.com/macports/"
     },
     {
-      "id": 1070,
+      "id": 1074,
       "name": "MacUpdate Desktop",
       "url": "https://www.macupdate.com/",
       "description": "Simplifies finding, buying and installing apps for your Mac",
@@ -12298,7 +12342,7 @@
       "isAppStore": false
     },
     {
-      "id": 1071,
+      "id": 1075,
       "name": "alternativeTo",
       "url": "http://alternativeto.net/",
       "description": "Also a very nice community. If you are looking for some alternative apps **FOR** Windows or another platform, check this site",
@@ -12309,7 +12353,7 @@
       "isAppStore": false
     },
     {
-      "id": 1072,
+      "id": 1076,
       "name": "Slant",
       "url": "https://www.slant.co",
       "description": "I personally recommend this. This is a platform where you can compare apps side-by-side, you might get an idea by seeing other users recommendations. Please contribute if you find an application from this list!",
@@ -12320,7 +12364,7 @@
       "isAppStore": false
     },
     {
-      "id": 1073,
+      "id": 1077,
       "name": "Buy software, once",
       "url": "https://buyoncesoftware.com/",
       "description": "The place to find all the software you can buy one time, and own for a lifetime",
@@ -12331,7 +12375,7 @@
       "isAppStore": false
     },
     {
-      "id": 1074,
+      "id": 1078,
       "name": "Open Alternative",
       "url": "https://openalternative.co/",
       "description": "Discover Open Source Alternatives to Popular Software. A curated collection of the best open source alternatives to everyday SaaS products. Save money with reliable tools hand-picked for you",
@@ -12342,7 +12386,7 @@
       "isAppStore": false
     },
     {
-      "id": 1075,
+      "id": 1079,
       "name": "Mac Power Users",
       "url": "https://www.relay.fm/mpu",
       "description": "Learn about getting the most from your Apple technology with focused topics and workflow guests",
@@ -12460,10 +12504,10 @@
     "Podcasts": []
   },
   "meta": {
-    "totalApps": 1075,
+    "totalApps": 1079,
     "freeApps": 693,
-    "paidApps": 382,
+    "paidApps": 386,
     "openSourceApps": 496,
-    "generatedAt": "2026-02-26T02:02:03.771Z"
+    "generatedAt": "2026-02-27T02:01:22.992Z"
   }
 }
