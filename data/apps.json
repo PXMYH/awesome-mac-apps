@@ -5567,7 +5567,7 @@
       "id": 487,
       "name": "Fazm",
       "url": "https://fazm.ai",
-      "description": "Open-source, voice-controlled AI computer agent that controls your entire macOS desktop through natural language. Any app, file, or workflow",
+      "description": "Open-source voice-controlled AI agent for apps, files, and workflows",
       "category": "AI Client",
       "subcategory": "AI Client",
       "pricing": "free",
@@ -12905,6 +12905,6 @@
     "freeApps": 724,
     "paidApps": 388,
     "openSourceApps": 527,
-    "generatedAt": "2026-03-18T02:08:53.924Z"
+    "generatedAt": "2026-03-19T02:09:46.213Z"
   }
 }
