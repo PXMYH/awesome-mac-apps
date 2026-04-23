@@ -13153,6 +13153,17 @@
     },
     {
       "id": 1142,
+      "name": "ConsoleMini",
+      "url": "https://github.com/momenbasel/ConsoleMini",
+      "description": "Controller-first big-picture launcher that turns a Mac mini into a PS1-PS4 + retro console (wraps DuckStation, PCSX2, RPCS3, shadPS4, PPSSPP, RetroArch, mGBA, Flycast)",
+      "category": "Gaming Software",
+      "subcategory": "Gaming Software",
+      "pricing": "free",
+      "isOpenSource": true,
+      "isAppStore": false
+    },
+    {
+      "id": 1143,
       "name": "AnyDesk",
       "url": "https://anydesk.com",
       "description": "Provides remote access across multiple machines",
@@ -13163,7 +13174,7 @@
       "isAppStore": false
     },
     {
-      "id": 1143,
+      "id": 1144,
       "name": "Moonlight",
       "url": "https://github.com/moonlight-stream/moonlight-qt",
       "description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)",
@@ -13175,7 +13186,7 @@
       "repoUrl": "https://github.com/moonlight-stream/moonlight-qt"
     },
     {
-      "id": 1144,
+      "id": 1145,
       "name": "Parsec",
       "url": "https://parsec.app",
       "description": "Low-latency remote desktop and game streaming tool",
@@ -13186,7 +13197,7 @@
       "isAppStore": false
     },
     {
-      "id": 1145,
+      "id": 1146,
       "name": "RealVNC",
       "url": "https://www.realvnc.com",
       "description": "The original and best software for remote access across desktop and mobile",
@@ -13197,7 +13208,7 @@
       "isAppStore": false
     },
     {
-      "id": 1146,
+      "id": 1147,
       "name": "RoyalTSX",
       "url": "https://www.royalapps.com/ts/mac/features",
       "description": "Remote connection manager for multiple protocols",
@@ -13208,7 +13219,7 @@
       "isAppStore": false
     },
     {
-      "id": 1147,
+      "id": 1148,
       "name": "RustDesk",
       "url": "https://rustdesk.com/",
       "description": "Yet another remote desktop software",
@@ -13220,7 +13231,7 @@
       "repoUrl": "https://github.com/rustdesk/rustdesk"
     },
     {
-      "id": 1148,
+      "id": 1149,
       "name": "Steam Link",
       "url": "https://apps.apple.com/us/app/steam-link/id1246969117?platform=mac",
       "description": "The Steam Link app allows you to play your Steam games across all your computers",
@@ -13231,7 +13242,7 @@
       "isAppStore": false
     },
     {
-      "id": 1149,
+      "id": 1150,
       "name": "Sunshine",
       "url": "https://github.com/LizardByte/Sunshine",
       "description": "Self-hosted game stream host for Moonlight",
@@ -13243,7 +13254,7 @@
       "repoUrl": "https://github.com/LizardByte/Sunshine"
     },
     {
-      "id": 1150,
+      "id": 1151,
       "name": "TeamViewer",
       "url": "https://www.teamviewer.com/en",
       "description": "Remote support and screen sharing tool",
@@ -13254,7 +13265,7 @@
       "isAppStore": false
     },
     {
-      "id": 1151,
+      "id": 1152,
       "name": "Windows App",
       "url": "https://apps.apple.com/us/app/windows-app/id1295203466?platform=mac",
       "description": "Connect to a remote PC or virtual apps and desktops made available by your admin",
@@ -13265,7 +13276,7 @@
       "isAppStore": false
     },
     {
-      "id": 1152,
+      "id": 1153,
       "name": "QLMarkdown",
       "url": "https://github.com/sbarex/QLMarkdown",
       "description": "Quick Look extension for Markdown files. -",
@@ -13276,7 +13287,7 @@
       "isAppStore": false
     },
     {
-      "id": 1153,
+      "id": 1154,
       "name": "FluxMarkdown",
       "url": "https://github.com/xykong/flux-markdown",
       "description": "Quick Look extension for Markdown previews with Mermaid, KaTeX, GFM, TOC, and charts",
@@ -13288,7 +13299,7 @@
       "repoUrl": "https://github.com/xykong/flux-markdown"
     },
     {
-      "id": 1154,
+      "id": 1155,
       "name": "markdown-quicklook",
       "url": "https://github.com/ruspg/markdown-quicklook",
       "description": "Quick Look plugin for rendered Markdown previews with syntax highlighting",
@@ -13300,7 +13311,7 @@
       "repoUrl": "https://github.com/ruspg/markdown-quicklook"
     },
     {
-      "id": 1155,
+      "id": 1156,
       "name": "Torrent Preview",
       "url": "https://github.com/sveinbjornpalsson/torrentpreview/",
       "description": "Quick Look extension for previewing `.torrent` files, trackers, and metadata",
@@ -13312,7 +13323,7 @@
       "repoUrl": "https://github.com/sveinbjornpalsson/torrentpreview/"
     },
     {
-      "id": 1156,
+      "id": 1157,
       "name": "quick-look-plugins",
       "url": "https://github.com/sindresorhus/quick-look-plugins",
       "description": "List of useful [Quick Look](https://en.wikipedia.org/wiki/Quick_Look) plugins for developers",
@@ -13323,7 +13334,7 @@
       "isAppStore": false
     },
     {
-      "id": 1157,
+      "id": 1158,
       "name": "Syntax Highlight",
       "url": "https://github.com/sbarex/SourceCodeSyntaxHighlight",
       "description": "Quick Look extension for highlight source code files. -",
@@ -13334,7 +13345,7 @@
       "isAppStore": false
     },
     {
-      "id": 1158,
+      "id": 1159,
       "name": "Applite",
       "url": "https://aerolite.dev/applite",
       "description": "User-friendly GUI app for Homebrew Casks. Install, update, and uninstall apps with a single click",
@@ -13346,7 +13357,7 @@
       "repoUrl": "https://github.com/milanvarady/Applite"
     },
     {
-      "id": 1159,
+      "id": 1160,
       "name": "Cork",
       "url": "https://corkmac.app",
       "description": "An intuitive and complete Homebrew GUI written in SwiftUI that supports all Homebrew features",
@@ -13358,7 +13369,7 @@
       "repoUrl": "https://github.com/buresdv/cork"
     },
     {
-      "id": 1160,
+      "id": 1161,
       "name": "Homebrew",
       "url": "https://brew.sh/",
       "description": "The missing package manager for macOS",
@@ -13370,7 +13381,7 @@
       "repoUrl": "https://github.com/Homebrew/brew/"
     },
     {
-      "id": 1161,
+      "id": 1162,
       "name": "MacPorts",
       "url": "https://www.macports.org/",
       "description": "Package manager for installing and maintaining open-source software",
@@ -13382,7 +13393,7 @@
       "repoUrl": "https://github.com/macports/"
     },
     {
-      "id": 1162,
+      "id": 1163,
       "name": "MacUpdate Desktop",
       "url": "https://www.macupdate.com/",
       "description": "Simplifies finding, buying and installing apps for your Mac",
@@ -13393,7 +13404,7 @@
       "isAppStore": false
     },
     {
-      "id": 1163,
+      "id": 1164,
       "name": "alternativeTo",
       "url": "http://alternativeto.net/",
       "description": "Also a very nice community. If you are looking for some alternative apps **FOR** Windows or another platform, check this site",
@@ -13404,7 +13415,7 @@
       "isAppStore": false
     },
     {
-      "id": 1164,
+      "id": 1165,
       "name": "Slant",
       "url": "https://www.slant.co",
       "description": "Platform for comparing software and browsing community recommendations",
@@ -13415,7 +13426,7 @@
       "isAppStore": false
     },
     {
-      "id": 1165,
+      "id": 1166,
       "name": "Buy software, once",
       "url": "https://buyoncesoftware.com/",
       "description": "The place to find all the software you can buy one time, and own for a lifetime",
@@ -13426,7 +13437,7 @@
       "isAppStore": false
     },
     {
-      "id": 1166,
+      "id": 1167,
       "name": "Open Alternative",
       "url": "https://openalternative.co/",
       "description": "Discover Open Source Alternatives to Popular Software. A curated collection of the best open source alternatives to everyday SaaS products. Save money with reliable tools hand-picked for you",
@@ -13437,7 +13448,7 @@
       "isAppStore": false
     },
     {
-      "id": 1167,
+      "id": 1168,
       "name": "Mac Power Users",
       "url": "https://www.relay.fm/mpu",
       "description": "Learn about getting the most from your Apple technology with focused topics and workflow guests",
@@ -13556,10 +13567,10 @@
     "Podcasts": []
   },
   "meta": {
-    "totalApps": 1167,
-    "freeApps": 779,
+    "totalApps": 1168,
+    "freeApps": 780,
     "paidApps": 388,
-    "openSourceApps": 572,
-    "generatedAt": "2026-04-22T02:32:26.652Z"
+    "openSourceApps": 573,
+    "generatedAt": "2026-04-23T02:35:44.688Z"
   }
 }
