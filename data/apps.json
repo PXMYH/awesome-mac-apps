@@ -13154,8 +13154,8 @@
     {
       "id": 1142,
       "name": "Whisky",
-      "url": "https://getwhisky.app/",
-      "description": "Wine wrapper that supports GPTK (Game Porting Toolkit)",
+      "url": "https://github.com/frankea/Whisky",
+      "description": "A tool for running Windows apps on macOS, built with SwiftUI and supporting D3DMetal and DXVK backends",
       "category": "Gaming Software",
       "subcategory": "Gaming Software",
       "pricing": "free",
@@ -13582,6 +13582,6 @@
     "freeApps": 781,
     "paidApps": 388,
     "openSourceApps": 573,
-    "generatedAt": "2026-05-02T02:39:27.038Z"
+    "generatedAt": "2026-05-03T02:51:32.879Z"
   }
 }
