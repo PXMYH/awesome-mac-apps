@@ -4173,9 +4173,10 @@
       "description": "Warp is a blazingly fast, rust-based terminal reimagined from the ground up to work like a modern app",
       "category": "Terminal Apps",
       "subcategory": "Terminal Apps",
-      "pricing": "paid",
-      "isOpenSource": false,
-      "isAppStore": false
+      "pricing": "free",
+      "isOpenSource": true,
+      "isAppStore": false,
+      "repoUrl": "https://www.github.com/warpdotdev/warp"
     },
     {
       "id": 365,
@@ -13650,9 +13651,9 @@
   },
   "meta": {
     "totalApps": 1175,
-    "freeApps": 787,
-    "paidApps": 388,
-    "openSourceApps": 578,
-    "generatedAt": "2026-05-08T02:52:13.603Z"
+    "freeApps": 788,
+    "paidApps": 387,
+    "openSourceApps": 579,
+    "generatedAt": "2026-05-09T02:47:03.363Z"
   }
 }
