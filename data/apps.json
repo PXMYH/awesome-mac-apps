@@ -1537,7 +1537,7 @@
       "id": 133,
       "name": "SmoothCSV",
       "url": "https://smoothcsv.com/",
-      "description": "Fast and full-featured CSV editor for Windows, macOS, and Linux with SQL queries",
+      "description": "Fast, full-featured CSV editor with SQL queries",
       "category": "Reading and Writing Tools",
       "subcategory": "Others",
       "pricing": "free",
@@ -13925,6 +13925,6 @@
     "freeApps": 809,
     "paidApps": 389,
     "openSourceApps": 597,
-    "generatedAt": "2026-06-06T03:26:17.420Z"
+    "generatedAt": "2026-06-07T03:52:52.970Z"
   }
 }
