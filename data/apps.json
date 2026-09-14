@@ -6618,6 +6618,18 @@
     },
     {
       "id": 576,
+      "name": "Wayfinder",
+      "url": "https://wayfinder-ai.pages.dev/",
+      "description": "Local-first visual voyage map for preserving Codex and Claude Code sessions, branches, failures, decisions, and file changes",
+      "category": "AI Tools",
+      "subcategory": "AI Tools",
+      "pricing": "free",
+      "isOpenSource": true,
+      "isAppStore": false,
+      "repoUrl": "https://github.com/StayCurious-Xuan/wayfinder"
+    },
+    {
+      "id": 577,
       "name": "Adium",
       "url": "https://adium.im/",
       "description": "Free instant messaging application for Mac OS X. Connect to AIM, MSN, SMPP, Yahoo and more",
@@ -6628,7 +6640,7 @@
       "isAppStore": false
     },
     {
-      "id": 577,
+      "id": 578,
       "name": "BlurScreen App",
       "url": "https://www.blurscreen.app",
       "description": "Instantly blur sensitive on-screen content for recording or screen sharing",
@@ -6639,7 +6651,7 @@
       "isAppStore": false
     },
     {
-      "id": 578,
+      "id": 579,
       "name": "Caprine",
       "url": "https://github.com/sindresorhus/caprine",
       "description": "Third-party privacy-focused Facebook Messenger app",
@@ -6650,7 +6662,7 @@
       "isAppStore": false
     },
     {
-      "id": 579,
+      "id": 580,
       "name": "DingTalk",
       "url": "https://www.dingtalk.com/en",
       "description": "Team communication and collaboration platform",
@@ -6661,7 +6673,7 @@
       "isAppStore": false
     },
     {
-      "id": 580,
+      "id": 581,
       "name": "Discord",
       "url": "https://discordapp.com/",
       "description": "Voice, text, and community chat platform",
@@ -6672,7 +6684,7 @@
       "isAppStore": false
     },
     {
-      "id": 581,
+      "id": 582,
       "name": "Element",
       "url": "https://element.io/",
       "description": "Create, share communicate. Chat and call securely",
@@ -6683,7 +6695,7 @@
       "isAppStore": false
     },
     {
-      "id": 582,
+      "id": 583,
       "name": "Ferdium",
       "url": "https://ferdium.org/",
       "description": "Messaging workspace that combines multiple web apps in one place",
@@ -6694,7 +6706,7 @@
       "isAppStore": false
     },
     {
-      "id": 583,
+      "id": 584,
       "name": "Franz",
       "url": "https://meetfranz.com/",
       "description": "Messaging app that combines multiple chat services in one place",
@@ -6705,7 +6717,7 @@
       "isAppStore": false
     },
     {
-      "id": 584,
+      "id": 585,
       "name": "Gitter",
       "url": "https://gitter.im",
       "description": "Chat platform for developers and GitHub communities",
@@ -6716,7 +6728,7 @@
       "isAppStore": false
     },
     {
-      "id": 585,
+      "id": 586,
       "name": "Keybase",
       "url": "https://keybase.io/",
       "description": "Secure groups, files, and chat for everyone!",
@@ -6728,7 +6740,7 @@
       "repoUrl": "https://github.com/keybase"
     },
     {
-      "id": 586,
+      "id": 587,
       "name": "Krisp",
       "url": "https://krisp.ai/",
       "description": "An AI-powered noise cancelling app that mutes background noise during calls",
@@ -6739,7 +6751,7 @@
       "isAppStore": false
     },
     {
-      "id": 587,
+      "id": 588,
       "name": "Lark",
       "url": "https://www.larksuite.com/en_us/",
       "description": "The Next-Gen Collaboration Suite. All your chats, meetings, calendars, docs, and emails in one place",
@@ -6750,7 +6762,7 @@
       "isAppStore": false
     },
     {
-      "id": 588,
+      "id": 589,
       "name": "LimeChat",
       "url": "https://limechat.net/mac/",
       "description": "Open-source IRC client for Mac OS X",
@@ -6761,7 +6773,7 @@
       "isAppStore": false
     },
     {
-      "id": 589,
+      "id": 590,
       "name": "Mastodon",
       "url": "https://mastodon.social/",
       "description": "Your self-hosted, globally interconnected microblogging community",
@@ -6773,7 +6785,7 @@
       "repoUrl": "https://github.com/mastodon/mastodon"
     },
     {
-      "id": 590,
+      "id": 591,
       "name": "Matrix",
       "url": "https://matrix.org/",
       "description": "An open network for secure, decentralised communication!",
@@ -6784,7 +6796,7 @@
       "isAppStore": false
     },
     {
-      "id": 591,
+      "id": 592,
       "name": "Mattermost",
       "url": "https://mattermost.com/download/",
       "description": "Open-source team collaboration platform",
@@ -6796,7 +6808,7 @@
       "repoUrl": "https://github.com/mattermost/mattermost"
     },
     {
-      "id": 592,
+      "id": 593,
       "name": "Misskey",
       "url": "https://misskey-hub.net/",
       "description": "🌎 A completely free and open interplanetary microblogging platform 🚀",
@@ -6808,7 +6820,7 @@
       "repoUrl": "https://github.com/misskey-dev/misskey"
     },
     {
-      "id": 593,
+      "id": 594,
       "name": "Muzzle",
       "url": "https://muzzleapp.com/",
       "description": "A simple mac app to silence embarrassing notifications while screensharing",
@@ -6819,7 +6831,7 @@
       "isAppStore": false
     },
     {
-      "id": 594,
+      "id": 595,
       "name": "Presentify",
       "url": "https://presentify.compzets.com/",
       "description": "A mac app to draw on your screen while on calls, highlight your cursor, and more",
@@ -6830,7 +6842,7 @@
       "isAppStore": true
     },
     {
-      "id": 595,
+      "id": 596,
       "name": "Rambox",
       "url": "https://rambox.pro/",
       "description": "Messaging and emailing app that combines common web applications into one",
@@ -6842,7 +6854,7 @@
       "repoUrl": "https://github.com/saenzramiro/rambox"
     },
     {
-      "id": 596,
+      "id": 597,
       "name": "Signal Desktop",
       "url": "https://signal.org/download/",
       "description": "Fast, simple, secure. Privacy that fits in your pocket",
@@ -6854,7 +6866,7 @@
       "repoUrl": "https://github.com/signalapp/Signal-Desktop"
     },
     {
-      "id": 597,
+      "id": 598,
       "name": "Slack",
       "url": "https://slack.com/downloads/mac",
       "description": "Awesome tool for team collaboration and communication",
@@ -6865,7 +6877,7 @@
       "isAppStore": false
     },
     {
-      "id": 598,
+      "id": 599,
       "name": "Stack",
       "url": "https://getstack.app/",
       "description": "Workspace browser for organizing multiple web apps on one screen",
@@ -6876,7 +6888,7 @@
       "isAppStore": false
     },
     {
-      "id": 599,
+      "id": 600,
       "name": "Teams",
       "url": "https://teams.live.com/",
       "description": "Free online meetings and video calls",
@@ -6887,7 +6899,7 @@
       "isAppStore": false
     },
     {
-      "id": 600,
+      "id": 601,
       "name": "Teambition",
       "url": "https://www.teambition.com",
       "description": "Team collaboration tool for tasks, schedules, files, and discussions",
@@ -6898,7 +6910,7 @@
       "isAppStore": false
     },
     {
-      "id": 601,
+      "id": 602,
       "name": "Telegram",
       "url": "https://desktop.telegram.org",
       "description": "Messaging app with a focus on speed and security",
@@ -6911,7 +6923,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/telegram/id747648890?platform=mac"
     },
     {
-      "id": 602,
+      "id": 603,
       "name": "Textual",
       "url": "https://apps.apple.com/us/app/textual-7/id1262957439?platform=mac",
       "description": "Internet Relay Chat (IRC) client",
@@ -6924,7 +6936,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/telegram/id747648890?platform=mac"
     },
     {
-      "id": 603,
+      "id": 604,
       "name": "Unite",
       "url": "https://furnacecreek.org/unite/",
       "description": "The only native GroupMe app for Mac",
@@ -6935,7 +6947,7 @@
       "isAppStore": false
     },
     {
-      "id": 604,
+      "id": 605,
       "name": "Wavebox",
       "url": "https://wavebox.io",
       "description": "Browser workspace for organizing web apps and team tools",
@@ -6946,7 +6958,7 @@
       "isAppStore": false
     },
     {
-      "id": 605,
+      "id": 606,
       "name": "WeChat",
       "url": "https://apps.apple.com/app/wechat/id836500024?platform=mac",
       "description": "Official WeChat app for Mac",
@@ -6957,7 +6969,7 @@
       "isAppStore": true
     },
     {
-      "id": 606,
+      "id": 607,
       "name": "WeeChat",
       "url": "https://weechat.org/",
       "description": "The extensible command-line chat client",
@@ -6968,7 +6980,7 @@
       "isAppStore": false
     },
     {
-      "id": 607,
+      "id": 608,
       "name": "WhatsApp Desktop",
       "url": "https://apps.apple.com/us/app/whatsapp-desktop/id1147396723?platform=mac",
       "description": "Available in the Mac App Store, Whatsapp for Desktop",
@@ -6979,7 +6991,7 @@
       "isAppStore": true
     },
     {
-      "id": 608,
+      "id": 609,
       "name": "Mezon",
       "url": "https://mezon.ai/",
       "description": "A new way to communicate with your team. It's free, faster, better organized, better for WFH",
@@ -6990,7 +7002,7 @@
       "isAppStore": false
     },
     {
-      "id": 609,
+      "id": 610,
       "name": "Airmail",
       "url": "https://airmailapp.com",
       "description": "Fast email client. For both Mac OS and iOS",
@@ -7001,7 +7013,7 @@
       "isAppStore": false
     },
     {
-      "id": 610,
+      "id": 611,
       "name": "CanaryMail",
       "url": "https://canarymail.io/",
       "description": "Secure email app for Mac and iPhone with built-in PGP Support and AI assistance",
@@ -7013,7 +7025,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/canary-mail-email-meet-ai/id1236045954?platform=mac"
     },
     {
-      "id": 611,
+      "id": 612,
       "name": "ElectronMail",
       "url": "https://github.com/vladimiry/ElectronMail",
       "description": "An Electron-based unofficial desktop client for ProtonMail",
@@ -7025,7 +7037,7 @@
       "repoUrl": "https://github.com/vladimiry/ElectronMail"
     },
     {
-      "id": 612,
+      "id": 613,
       "name": "Foxmail",
       "url": "https://www.foxmail.com/mac/en",
       "description": "Fast email client",
@@ -7036,7 +7048,7 @@
       "isAppStore": false
     },
     {
-      "id": 613,
+      "id": 614,
       "name": "MailTags",
       "url": "https://smallcubed.com/",
       "description": "Use tags to organize email and schedule",
@@ -7047,7 +7059,7 @@
       "isAppStore": false
     },
     {
-      "id": 614,
+      "id": 615,
       "name": "Mailspring",
       "url": "https://getmailspring.com/",
       "description": "A beautiful, fast, and fully open source mail client",
@@ -7059,7 +7071,7 @@
       "repoUrl": "https://github.com/Foundry376/Mailspring"
     },
     {
-      "id": 615,
+      "id": 616,
       "name": "N1",
       "url": "https://www.nylas.com/",
       "description": "Extensible, open-source mail app, free for developers and $7/month for Pro",
@@ -7070,7 +7082,7 @@
       "isAppStore": false
     },
     {
-      "id": 616,
+      "id": 617,
       "name": "Nylas Mail",
       "url": "https://nylas.com/nylas-mail/",
       "description": "Extensible desktop mail app built on the modern web",
@@ -7082,7 +7094,7 @@
       "repoUrl": "https://github.com/nylas/nylas-mail"
     },
     {
-      "id": 617,
+      "id": 618,
       "name": "Polymail",
       "url": "https://polymail.io/",
       "description": "Simple, beautiful and powerful email client",
@@ -7093,7 +7105,7 @@
       "isAppStore": false
     },
     {
-      "id": 618,
+      "id": 619,
       "name": "Postbox",
       "url": "https://www.postbox-inc.com",
       "description": "Powerful, simple and beautiful email client, need to pay for a license",
@@ -7104,7 +7116,7 @@
       "isAppStore": false
     },
     {
-      "id": 619,
+      "id": 620,
       "name": "Spark",
       "url": "https://sparkmailapp.com/",
       "description": "Fast email client. For both Mac OS and iOS",
@@ -7115,7 +7127,7 @@
       "isAppStore": false
     },
     {
-      "id": 620,
+      "id": 621,
       "name": "ThunderBird",
       "url": "https://www.mozilla.org/en-US/thunderbird/",
       "description": "Software that makes email easier",
@@ -7126,7 +7138,7 @@
       "isAppStore": false
     },
     {
-      "id": 621,
+      "id": 622,
       "name": "Tutanota",
       "url": "https://tutanota.com/",
       "description": "Encrypted email focused on security and privacy",
@@ -7138,7 +7150,7 @@
       "repoUrl": "https://github.com/tutao/tutanota"
     },
     {
-      "id": 622,
+      "id": 623,
       "name": "Edison Mail",
       "url": "https://mail.edison.tech/mac",
       "description": "A customisable, simple, and beautiful email client",
@@ -7149,7 +7161,7 @@
       "isAppStore": false
     },
     {
-      "id": 623,
+      "id": 624,
       "name": "Skiff Mail",
       "url": "https://skiff.com/mail",
       "description": "Encrypted & Decentralized Email -- available on web, iOS/Android, and macOS",
@@ -7161,7 +7173,7 @@
       "repoUrl": "https://github.com/skiff-org/skiff-mail"
     },
     {
-      "id": 624,
+      "id": 625,
       "name": "Cyberduck",
       "url": "https://cyberduck.io",
       "description": "Free FTP, SFTP, WebDAV, S3, Backblaze B2, Azure and OpenStack Swift browser",
@@ -7172,7 +7184,7 @@
       "isAppStore": false
     },
     {
-      "id": 625,
+      "id": 626,
       "name": "Dropshare",
       "url": "https://dropshare.app",
       "description": "File sharing tool for screenshots, screen recordings, and other files",
@@ -7183,7 +7195,7 @@
       "isAppStore": false
     },
     {
-      "id": 626,
+      "id": 627,
       "name": "Flow",
       "url": "https://fivedetails.com/flow/",
       "description": "Award-winning, beautiful, fast, and reliable FTP + SFTP client",
@@ -7194,7 +7206,7 @@
       "isAppStore": false
     },
     {
-      "id": 627,
+      "id": 628,
       "name": "LocalSend",
       "url": "https://localsend.org/",
       "description": "An open-source cross-platform alternative to AirDrop",
@@ -7206,7 +7218,7 @@
       "repoUrl": "https://github.com/localsend/localsend"
     },
     {
-      "id": 628,
+      "id": 629,
       "name": "NearDrop",
       "url": "https://github.com/grishka/NearDrop",
       "description": "An unofficial Google Nearby Share/Quick Share app for macOS",
@@ -7218,7 +7230,7 @@
       "repoUrl": "https://github.com/localsend/localsend"
     },
     {
-      "id": 629,
+      "id": 630,
       "name": "Rclone UI",
       "url": "https://rcloneui.com/",
       "description": "The GUI for Rclone & S3",
@@ -7231,7 +7243,7 @@
       "appStoreUrl": "https://apps.apple.com/app/rclone-ui/id6756127598?platform=mac"
     },
     {
-      "id": 630,
+      "id": 631,
       "name": "Transmit",
       "url": "https://panic.com/transmit/",
       "description": "Highly flexible and intuitive FTP client, supports SFTP, S3 and iDisk/WebDAV",
@@ -7242,7 +7254,7 @@
       "isAppStore": false
     },
     {
-      "id": 631,
+      "id": 632,
       "name": "Data Rescue",
       "url": "https://www.prosofteng.com/mac-data-recovery",
       "description": "Comprehensive and professional data recovery tool for most cases",
@@ -7253,7 +7265,7 @@
       "isAppStore": false
     },
     {
-      "id": 632,
+      "id": 633,
       "name": "DiskWarrior",
       "url": "https://www.alsoft.com/DiskWarrior/",
       "description": "The world’s most advanced repair and recovery tool for Mac",
@@ -7264,7 +7276,7 @@
       "isAppStore": false
     },
     {
-      "id": 633,
+      "id": 634,
       "name": "R-Studio for Mac",
       "url": "https://www.r-studio.com/data_recovery_macintosh/",
       "description": "Data recovery tool for damaged, deleted, or formatted disks",
@@ -7275,7 +7287,7 @@
       "isAppStore": false
     },
     {
-      "id": 634,
+      "id": 635,
       "name": "SuperDuper!",
       "url": "https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html",
       "description": "Painless fully bootable disk backups",
@@ -7286,7 +7298,7 @@
       "isAppStore": false
     },
     {
-      "id": 635,
+      "id": 636,
       "name": "Disk Drill",
       "url": "https://www.cleverfiles.com/",
       "description": "Free data recovery tool. Also has a PRO version",
@@ -7298,7 +7310,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/disk-drill-media-recovery/id431224317?platform=mac"
     },
     {
-      "id": 636,
+      "id": 637,
       "name": "Adapter",
       "url": "https://macroplant.com/adapter",
       "description": "Free audio, video and image conversion software",
@@ -7309,7 +7321,7 @@
       "isAppStore": false
     },
     {
-      "id": 637,
+      "id": 638,
       "name": "Aegisub",
       "url": "https://github.com/Aegisub/Aegisub",
       "description": "Open-source subtitle editor with timing and styling tools",
@@ -7321,7 +7333,7 @@
       "repoUrl": "https://github.com/Aegisub/Aegisub/"
     },
     {
-      "id": 638,
+      "id": 639,
       "name": "Audio Profile Manager",
       "url": "https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&platform=mac",
       "description": "Audio device manager for saving input and output setups",
@@ -7333,7 +7345,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&platform=mac"
     },
     {
-      "id": 639,
+      "id": 640,
       "name": "Ardour",
       "url": "https://ardour.org/",
       "description": "Cross-platform audio software for multi-track recording and editing",
@@ -7345,7 +7357,7 @@
       "repoUrl": "https://github.com/Ardour/ardour"
     },
     {
-      "id": 640,
+      "id": 641,
       "name": "Audacity",
       "url": "https://www.audacityteam.org/",
       "description": "Free, open-source, cross-platform audio software for multi-track recording and editing",
@@ -7356,7 +7368,7 @@
       "isAppStore": false
     },
     {
-      "id": 641,
+      "id": 642,
       "name": "Audio Hijack",
       "url": "https://www.rogueamoeba.com/audiohijack/",
       "description": "Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more",
@@ -7367,7 +7379,7 @@
       "isAppStore": false
     },
     {
-      "id": 642,
+      "id": 643,
       "name": "BeMyEars",
       "url": "https://www.bemyears.cn/",
       "description": "Live captioning tool with on-device transcription and multilingual support",
@@ -7378,7 +7390,7 @@
       "isAppStore": false
     },
     {
-      "id": 643,
+      "id": 644,
       "name": "BlackHole",
       "url": "https://github.com/ExistentialAudio/BlackHole",
       "description": "Freemium, open-source virtual output/input audio driver for recording/routing internal audio",
@@ -7390,7 +7402,7 @@
       "repoUrl": "https://github.com/ExistentialAudio/BlackHole"
     },
     {
-      "id": 644,
+      "id": 645,
       "name": "Camera Preview",
       "url": "https://sindresorhus.com/camera-preview",
       "description": "Preview your webcam, take photos, and use it as a mirror",
@@ -7402,7 +7414,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id1632827132?platform=mac"
     },
     {
-      "id": 645,
+      "id": 646,
       "name": "Carol",
       "url": "https://github.com/AnaghSharma/Carol",
       "description": "A minimal and beautiful lyrics app for macOS",
@@ -7414,7 +7426,7 @@
       "repoUrl": "https://github.com/AnaghSharma/Carol"
     },
     {
-      "id": 646,
+      "id": 647,
       "name": "Cog",
       "url": "https://cogx.org/",
       "description": "Free, open-source audio player",
@@ -7427,7 +7439,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/cog-kode54/id1630499622?platform=mac"
     },
     {
-      "id": 647,
+      "id": 648,
       "name": "DaVinci Resolve",
       "url": "https://www.blackmagicdesign.com/products/davinciresolve/",
       "description": "Free, cross-platform video editing, color grading, video effects and audio editing software",
@@ -7438,7 +7450,7 @@
       "isAppStore": false
     },
     {
-      "id": 648,
+      "id": 649,
       "name": "Elmedia Player",
       "url": "https://mac.eltima.com/media-player.html",
       "description": "Media player with broad audio and video format support",
@@ -7449,7 +7461,7 @@
       "isAppStore": false
     },
     {
-      "id": 649,
+      "id": 650,
       "name": "Fader",
       "url": "https://github.com/pantafive/fader",
       "description": "Menu bar volume mixer with per-app volume, one-click output switching, and Bluetooth headphone control",
@@ -7461,7 +7473,7 @@
       "repoUrl": "https://github.com/pantafive/fader"
     },
     {
-      "id": 650,
+      "id": 651,
       "name": "FineTune",
       "url": "https://github.com/ronitsingh10/FineTune",
       "description": "Per-app volume controller with multi-device output and 10-band EQ",
@@ -7473,7 +7485,7 @@
       "repoUrl": "https://github.com/ronitsingh10/FineTune"
     },
     {
-      "id": 651,
+      "id": 652,
       "name": "FreeTube",
       "url": "https://freetubeapp.io/",
       "description": "Open source desktop YouTube client built with privacy in mind",
@@ -7485,7 +7497,7 @@
       "repoUrl": "https://github.com/FreeTubeApp/FreeTube"
     },
     {
-      "id": 652,
+      "id": 653,
       "name": "Gifski",
       "url": "https://github.com/sindresorhus/gifski-app",
       "description": "Convert videos to high-quality GIFs",
@@ -7497,7 +7509,7 @@
       "appStoreUrl": "https://apps.apple.com/no/app/gifski/id1351639930?platform=mac"
     },
     {
-      "id": 653,
+      "id": 654,
       "name": "HandBrake",
       "url": "https://handbrake.fr/",
       "description": "Video transcoder for converting media to modern formats",
@@ -7509,7 +7521,7 @@
       "repoUrl": "https://github.com/HandBrake/HandBrake"
     },
     {
-      "id": 654,
+      "id": 655,
       "name": "Hydrogen",
       "url": "https://hydrogen-music.org/",
       "description": "Professional yet simple and intuitive pattern-based drum programming for GNU/Linux",
@@ -7521,7 +7533,7 @@
       "repoUrl": "https://github.com/hydrogen-music/hydrogen"
     },
     {
-      "id": 655,
+      "id": 656,
       "name": "ffWorks",
       "url": "https://www.ffworks.net/",
       "description": "Comprehensive Media Tool for macOS. Making High Quality Video Encoding Accessible for Everyone",
@@ -7532,7 +7544,7 @@
       "isAppStore": false
     },
     {
-      "id": 656,
+      "id": 657,
       "name": "IINA",
       "url": "https://iina.io/",
       "description": "The modern video player for macOS. Based on mpv, the powerful media player project",
@@ -7544,7 +7556,7 @@
       "repoUrl": "https://github.com/iina/iina"
     },
     {
-      "id": 657,
+      "id": 658,
       "name": "Jellyfin",
       "url": "https://github.com/jellyfin/jellyfin",
       "description": "The Free Software Media System",
@@ -7556,7 +7568,7 @@
       "repoUrl": "https://jellyfin.org"
     },
     {
-      "id": 658,
+      "id": 659,
       "name": "Kaset",
       "url": "https://github.com/sozercan/kaset",
       "description": "Native YouTube Music client for macOS",
@@ -7568,7 +7580,7 @@
       "repoUrl": "https://github.com/sozercan/kaset"
     },
     {
-      "id": 659,
+      "id": 660,
       "name": "Kodi",
       "url": "https://kodi.tv/",
       "description": "Open-source media center for video, music, pictures, and more",
@@ -7580,7 +7592,7 @@
       "repoUrl": "https://github.com/xbmc/xbmc"
     },
     {
-      "id": 660,
+      "id": 661,
       "name": "LMMS",
       "url": "https://lmms.io",
       "description": "Open-source digital audio workstation for music production",
@@ -7592,7 +7604,7 @@
       "repoUrl": "https://github.com/lmms/lmms"
     },
     {
-      "id": 661,
+      "id": 662,
       "name": "LosslessCut",
       "url": "https://github.com/mifi/lossless-cut",
       "description": "Cross platform tool for quick and lossless video and audio trimming using ffmpeg",
@@ -7603,7 +7615,7 @@
       "isAppStore": false
     },
     {
-      "id": 662,
+      "id": 663,
       "name": "LyricGlow",
       "url": "https://github.com/ateymoori/lyricglow",
       "description": "Synced lyrics player with word-by-word glow effects",
@@ -7615,7 +7627,7 @@
       "repoUrl": "https://github.com/ateymoori/lyricglow"
     },
     {
-      "id": 663,
+      "id": 664,
       "name": "LyricsX",
       "url": "https://github.com/ddddxxx/LyricsX",
       "description": "Lyrics for iTunes, Spotify and Vox",
@@ -7627,7 +7639,7 @@
       "repoUrl": "https://github.com/ddddxxx/LyricsX"
     },
     {
-      "id": 664,
+      "id": 665,
       "name": "Lyrimuse",
       "url": "https://github.com/Yudaotor/lyrimuse",
       "description": "Word-synced desktop lyrics for Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou and YouTube Music / Spotify Web in the browser",
@@ -7639,7 +7651,7 @@
       "repoUrl": "https://github.com/Yudaotor/lyrimuse"
     },
     {
-      "id": 665,
+      "id": 666,
       "name": "MacMusicPlayer",
       "url": "https://github.com/samzong/macmusicplayer",
       "description": "A clean, lightweight music player for macOS users",
@@ -7650,7 +7662,7 @@
       "isAppStore": false
     },
     {
-      "id": 666,
+      "id": 667,
       "name": "MacYTDL",
       "url": "https://github.com/section83/MacYTDL",
       "description": "A macOS GUI front-end for the youtube-dl video downloader",
@@ -7662,7 +7674,7 @@
       "repoUrl": "https://github.com/section83/MacYTDL"
     },
     {
-      "id": 667,
+      "id": 668,
       "name": "Marker Data",
       "url": "https://github.com/TheAcharya/MarkerData",
       "description": "The avant-garde Marker extraction application crafted for Final Cut Pro",
@@ -7673,7 +7685,7 @@
       "isAppStore": false
     },
     {
-      "id": 668,
+      "id": 669,
       "name": "Metadatics",
       "url": "https://markvapps.com/metadatics",
       "description": "Advanced Audio Metadata Editor",
@@ -7685,7 +7697,7 @@
       "appStoreUrl": "https://apps.apple.com/us/app/metadatics/id554883654?platform=mac"
     },
     {
-      "id": 669,
+      "id": 670,
       "name": "Mp3tag",
       "url": "https://mp3tag.app/",
       "description": "A powerful and easy-to-use tool to edit metadata of audio files",
@@ -7697,7 +7709,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id1532597159/?platform=mac"
     },
     {
-      "id": 670,
+      "id": 671,
       "name": "Mixxx",
       "url": "https://mixxx.org/",
       "description": "The most advanced free DJ software",
@@ -7708,7 +7720,7 @@
       "isAppStore": false
     },
     {
-      "id": 671,
+      "id": 672,
       "name": "Movie Catcher",
       "url": "https://evilcult.github.io/moviecatcher/",
       "description": "Tool for finding, streaming, and offline downloading movies",
@@ -7720,7 +7732,7 @@
       "repoUrl": "https://github.com/EvilCult/moviecatcher"
     },
     {
-      "id": 672,
+      "id": 673,
       "name": "mpv",
       "url": "https://www.mpv.io/",
       "description": "Free, open-source, and cross-platform media player",
@@ -7732,7 +7744,7 @@
       "repoUrl": "https://github.com/mpv-player/mpv"
     },
     {
-      "id": 673,
+      "id": 674,
       "name": "MuseScore",
       "url": "https://musescore.org/",
       "description": "Free, open-source music notation software",
@@ -7744,7 +7756,7 @@
       "repoUrl": "https://github.com/musescore/MuseScore"
     },
     {
-      "id": 674,
+      "id": 675,
       "name": "Museeks",
       "url": "https://museeks.io",
       "description": "A simple, clean and cross-platform music player",
@@ -7756,7 +7768,7 @@
       "repoUrl": "https://github.com/martpie/museeks"
     },
     {
-      "id": 675,
+      "id": 676,
       "name": "Muxie",
       "url": "https://muxie.duhnnie.com",
       "description": "Last.fm scrobbler for Apple Music, Spotify Desktop, iPod Classic, Rockbox devices and some others",
@@ -7767,7 +7779,7 @@
       "isAppStore": false
     },
     {
-      "id": 676,
+      "id": 677,
       "name": "Natron",
       "url": "https://natrongithub.github.io/",
       "description": "Open-source node-based compositing software",
@@ -7779,7 +7791,7 @@
       "repoUrl": "https://github.com/MrKepzie/Natron"
     },
     {
-      "id": 677,
+      "id": 678,
       "name": "Nuclear",
       "url": "https://nuclear.js.org/",
       "description": "Streaming music player that finds free music for you",
@@ -7791,7 +7803,7 @@
       "repoUrl": "https://github.com/nukeop/nuclear"
     },
     {
-      "id": 678,
+      "id": 679,
       "name": "Perian",
       "url": "https://perian.org/#download",
       "description": "(**No longer under active development**) ~~Let QuickTime play all the common formats of free plug-ins~~",
@@ -7803,7 +7815,7 @@
       "repoUrl": "https://github.com/MaddTheSane/perian"
     },
     {
-      "id": 679,
+      "id": 680,
       "name": "MusicBrainz Picard",
       "url": "https://picard.musicbrainz.org/",
       "description": "Cross-platform music tagger written in Python",
@@ -7815,7 +7827,7 @@
       "repoUrl": "https://github.com/metabrainz/picard"
     },
     {
-      "id": 680,
+      "id": 681,
       "name": "MyMedia",
       "url": "https://github.com/photangralenphie/MyMedia",
       "description": "Display and watch your local movie and TV show library",
@@ -7827,7 +7839,7 @@
       "repoUrl": "https://github.com/photangralenphie/MyMedia"
     },
     {
-      "id": 681,
+      "id": 682,
       "name": "Playback",
       "url": "https://mafintosh.github.io/playback/",
       "description": "Experimental video player",
@@ -7839,7 +7851,7 @@
       "repoUrl": "https://github.com/mafintosh/playback"
     },
     {
-      "id": 682,
+      "id": 683,
       "name": "Plug",
       "url": "https://plugformac.com",
       "description": "Discover and listen to music from Hype Machine",
@@ -7852,7 +7864,7 @@
       "appStoreUrl": "https://apps.apple.com/app/id1514182074?platform=mac"
     },
     {
-      "id": 683,
+      "id": 684,
       "name": "Petrichor",
       "url": "https://github.com/kushalpandya/Petrichor",
       "description": "Offline music player with broad format support, lyrics, playlists, and queue management",
@@ -7864,7 +7876,7 @@
       "repoUrl": "https://github.com/kushalpandya/Petrichor"
     },
     {
-      "id": 684,
+      "id": 685,
       "name": "Popcorn Time",
       "url": "https://popcorn-time.site/",
       "description": "Streaming app for browsing and watching torrent-based movies",
@@ -7876,7 +7888,7 @@
       "repoUrl": "https://github.com/popcorn-official/popcorn-desktop"
     },
     {
-      "id": 685,
+      "id": 686,
       "name": "Potplayer X",
       "url": "https://okaapps.com/product/1612400976",
       "description": "a Video Audio Player",
@@ -7888,7 +7900,7 @@
       "appStoreUrl": "https://apps.apple.com/cn/app/potplayer-x-%E9%9F%B3%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8/id1612400976?platform=mac"
     },
     {
-      "id": 686,
+      "id": 687,
       "name": "Pulp",
       "url": "https://github.com/bazalp/pulp/releases",
       "description": "Audio sample manager",
@@ -7900,7 +7912,7 @@
       "repoUrl": "https://github.com/bazalp/pulp"
     },
     {
-      "id": 687,
+      "id": 688,
       "name": "Sangeet",
       "url": "https://github.com/YashvardhanATRgithub/Sangeet",
       "description": "A beautiful audiophile music player with 10-band EQ, karaoke mode, and time-synced lyrics",
@@ -7911,7 +7923,7 @@
       "isAppStore": false
     },
     {
-      "id": 688,
+      "id": 689,
       "name": "ScreenFlow",
       "url": "https://www.telestream.net/screenflow/",
       "description": "Screencasting and video editing software",
@@ -7922,7 +7934,7 @@
       "isAppStore": false
     },
     {
-      "id": 689,
+      "id": 690,
       "name": "Shotcut",
       "url": "https://www.shotcut.org",
       "description": "Free open-source video editor",
@@ -7932,17 +7944,6 @@
       "isOpenSource": true,
       "isAppStore": false,
       "repoUrl": "https://github.com/mltframework/shotcut"
-    },
-    {
-      "id": 690,
-      "name": "Sonora",
-      "url": "https://github.com/sonoramac/Sonora",
-      "description": "Minimal, beautifully designed music player",
-      "category": "Audio and Video Tools",
-      "subcategory": "Audio and Video Tools",
-      "pricing": "free",
-      "isOpenSource": true,
-      "isAppStore": false
     },
     {
       "id": 691,
@@ -8155,7 +8156,7 @@
       "id": 709,
       "name": "Musicer",
       "url": "https://apps.apple.com/app/musicer/6745227444?platform=mac",
-      "description": "A lightweight local music player that supports multiple formats for enjoying music anytime",
+      "description": "A retro local music player that supports multiple formats and AI control",
       "category": "Audio and Video Tools",
       "subcategory": "Audio and Video Tools",
       "pricing": "paid",
@@ -14976,6 +14977,6 @@
     "freeApps": 900,
     "paidApps": 386,
     "openSourceApps": 687,
-    "generatedAt": "2026-09-13T03:21:11.711Z"
+    "generatedAt": "2026-09-14T03:32:32.018Z"
   }
 }
