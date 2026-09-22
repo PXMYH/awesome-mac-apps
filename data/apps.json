@@ -5676,13 +5676,12 @@
       "id": 494,
       "name": "Screenpipe",
       "url": "https://github.com/screenpipe/screenpipe",
-      "description": "Local screen and microphone recorder with AI search",
+      "description": "Source-available screen and audio recorder with searchable local history, optional cloud AI, and free and paid plans",
       "category": "Design and Product",
       "subcategory": "Screen Recording",
-      "pricing": "free",
-      "isOpenSource": true,
-      "isAppStore": false,
-      "repoUrl": "https://github.com/screenpipe/screenpipe"
+      "pricing": "paid",
+      "isOpenSource": false,
+      "isAppStore": false
     },
     {
       "id": 495,
@@ -15082,9 +15081,9 @@
   },
   "meta": {
     "totalApps": 1295,
-    "freeApps": 909,
-    "paidApps": 386,
-    "openSourceApps": 696,
-    "generatedAt": "2026-09-21T03:29:20.231Z"
+    "freeApps": 908,
+    "paidApps": 387,
+    "openSourceApps": 695,
+    "generatedAt": "2026-09-22T03:28:32.456Z"
   }
 }
